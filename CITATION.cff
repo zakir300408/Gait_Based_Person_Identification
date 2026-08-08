@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software or its derived evidence, please cite the associated PRISM-Gait paper."
+title: "PRISM-Gait reproducibility release"
+type: software
+authors:
+  - family-names: Ullah
+    given-names: Zakir
+  - family-names: Mansour
+    given-names: Omar
+  - family-names: Wang
+    given-names: Hong
+  - family-names: Zhu
+    given-names: Kezhe
+  - family-names: Xu
+    given-names: Chenquan
+  - family-names: Chen
+    given-names: Yueyuan
+  - family-names: Xu
+    given-names: Ziheng
+  - family-names: Lu
+    given-names: Qiqi
+  - family-names: Wang
+    given-names: Dong
+  - family-names: Hu
+    given-names: Hai
+  - family-names: Shull
+    given-names: Peter B.
+repository-code: "https://github.com/zakir300408/Gait_Based_Person_Identification"
+license: LicenseRef-NonCommercial-Research

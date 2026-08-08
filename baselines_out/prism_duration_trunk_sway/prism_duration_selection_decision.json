@@ -1,0 +1,7 @@
+{
+  "selection_metric": "participant-mean large-sway window accuracy",
+  "current_duration_s": 2.0,
+  "best_duration_s": 2.0,
+  "current_is_best": true,
+  "best_large_sway_mean_accuracy": 0.8777904701700378
+}

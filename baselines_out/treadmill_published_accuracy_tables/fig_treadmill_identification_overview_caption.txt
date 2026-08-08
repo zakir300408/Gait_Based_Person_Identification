@@ -1,0 +1,1 @@
+Window-level treadmill identification. (a) Teal and plum bars compare small and large trunk sway. (b) Colored model profiles report window-level accuracy across seven secondary gait perturbations.

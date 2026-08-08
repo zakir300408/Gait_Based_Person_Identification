@@ -1,0 +1,81 @@
+Method,Aggregation,Condition,Accuracy (%),Rank
+PRISM-Gait,Window level,fpa_small,97.62386248736095,1
+PRISM-Gait,Window level,fpa_large,97.7233782129743,1
+PRISM-Gait,Window level,step_width_small,99.05284147557329,1
+PRISM-Gait,Window level,step_width_large,98.03575925459582,1
+PRISM-Gait,Window level,walk_speed_small,98.7792472024415,1
+PRISM-Gait,Window level,walk_speed_large,99.10266561097916,1
+PRISM-Gait,Window level,dual_task,99.17477158856468,1
+PRISM-Gait,Window level,non_sway_overall,98.47814872135014,1
+MultiRocket,Window level,fpa_small,95.22244691607685,4
+MultiRocket,Window level,fpa_large,92.87637698898408,4
+MultiRocket,Window level,step_width_small,97.53240279162512,4
+MultiRocket,Window level,step_width_large,94.585746663309,4
+MultiRocket,Window level,walk_speed_small,95.93082400813836,4
+MultiRocket,Window level,walk_speed_large,97.25521245711268,3
+MultiRocket,Window level,dual_task,97.61273209549071,5
+MultiRocket,Window level,non_sway_overall,95.80293315645957,5
+MiniRocket,Window level,fpa_small,96.00606673407482,3
+MiniRocket,Window level,fpa_large,93.19461444308446,3
+MiniRocket,Window level,step_width_small,97.43270189431705,5
+MiniRocket,Window level,step_width_large,94.63611181062704,3
+MiniRocket,Window level,walk_speed_small,95.49847405900303,5
+MiniRocket,Window level,walk_speed_large,97.14964370546319,4
+MiniRocket,Window level,dual_task,97.81903919834954,3
+MiniRocket,Window level,non_sway_overall,95.90610951433415,4
+FCN-BiLSTM,Window level,fpa_small,96.73913043478261,2
+FCN-BiLSTM,Window level,fpa_large,96.08323133414932,2
+FCN-BiLSTM,Window level,step_width_small,98.30508474576271,2
+FCN-BiLSTM,Window level,step_width_large,96.42407454041803,2
+FCN-BiLSTM,Window level,walk_speed_small,98.7029501525941,2
+FCN-BiLSTM,Window level,walk_speed_large,99.10266561097916,1
+FCN-BiLSTM,Window level,dual_task,98.90951959917476,2
+FCN-BiLSTM,Window level,non_sway_overall,97.71169577713907,2
+InceptionTime,Window level,fpa_small,94.64105156723964,5
+InceptionTime,Window level,fpa_large,91.35862913096696,5
+InceptionTime,Window level,step_width_small,98.25523429710869,3
+InceptionTime,Window level,step_width_large,94.5101989423319,5
+InceptionTime,Window level,walk_speed_small,97.66022380467956,3
+InceptionTime,Window level,walk_speed_large,98.812351543943,2
+InceptionTime,Window level,dual_task,97.64220453875626,4
+InceptionTime,Window level,non_sway_overall,96.0571891812219,3
+PRISM-Gait,Trial level (1 min),fpa_small,98.33333333333331,2
+PRISM-Gait,Trial level (1 min),fpa_large,100.0,1
+PRISM-Gait,Trial level (1 min),step_width_small,100.0,1
+PRISM-Gait,Trial level (1 min),step_width_large,100.0,1
+PRISM-Gait,Trial level (1 min),walk_speed_small,100.0,1
+PRISM-Gait,Trial level (1 min),walk_speed_large,100.0,1
+PRISM-Gait,Trial level (1 min),dual_task,100.0,1
+PRISM-Gait,Trial level (1 min),non_sway_overall,99.76076555023923,2
+MultiRocket,Trial level (1 min),fpa_small,98.33333333333331,2
+MultiRocket,Trial level (1 min),fpa_large,98.38709677419357,2
+MultiRocket,Trial level (1 min),step_width_small,100.0,1
+MultiRocket,Trial level (1 min),step_width_large,98.33333333333331,2
+MultiRocket,Trial level (1 min),walk_speed_small,98.33333333333331,2
+MultiRocket,Trial level (1 min),walk_speed_large,98.24561403508773,2
+MultiRocket,Trial level (1 min),dual_task,100.0,1
+MultiRocket,Trial level (1 min),non_sway_overall,98.80382775119617,4
+MiniRocket,Trial level (1 min),fpa_small,98.33333333333331,2
+MiniRocket,Trial level (1 min),fpa_large,96.7741935483871,3
+MiniRocket,Trial level (1 min),step_width_small,100.0,1
+MiniRocket,Trial level (1 min),step_width_large,100.0,1
+MiniRocket,Trial level (1 min),walk_speed_small,98.33333333333331,2
+MiniRocket,Trial level (1 min),walk_speed_large,98.24561403508773,2
+MiniRocket,Trial level (1 min),dual_task,100.0,1
+MiniRocket,Trial level (1 min),non_sway_overall,98.80382775119617,4
+FCN-BiLSTM,Trial level (1 min),fpa_small,100.0,1
+FCN-BiLSTM,Trial level (1 min),fpa_large,100.0,1
+FCN-BiLSTM,Trial level (1 min),step_width_small,100.0,1
+FCN-BiLSTM,Trial level (1 min),step_width_large,100.0,1
+FCN-BiLSTM,Trial level (1 min),walk_speed_small,100.0,1
+FCN-BiLSTM,Trial level (1 min),walk_speed_large,100.0,1
+FCN-BiLSTM,Trial level (1 min),dual_task,100.0,1
+FCN-BiLSTM,Trial level (1 min),non_sway_overall,100.0,1
+InceptionTime,Trial level (1 min),fpa_small,98.33333333333331,2
+InceptionTime,Trial level (1 min),fpa_large,98.38709677419357,2
+InceptionTime,Trial level (1 min),step_width_small,100.0,1
+InceptionTime,Trial level (1 min),step_width_large,98.33333333333331,2
+InceptionTime,Trial level (1 min),walk_speed_small,100.0,1
+InceptionTime,Trial level (1 min),walk_speed_large,100.0,1
+InceptionTime,Trial level (1 min),dual_task,100.0,1
+InceptionTime,Trial level (1 min),non_sway_overall,99.2822966507177,3

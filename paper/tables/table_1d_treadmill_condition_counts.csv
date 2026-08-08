@@ -1,0 +1,4 @@
+Group,baseline,fpa_large,fpa_small,step_width_large,step_width_small,trunk_sway_large,trunk_sway_small,walk_speed_large,walk_speed_small,dual_task
+Overall,62,62,60,60,61,59,61,57,60,58
+Healthy,38,38,36,37,37,37,37,38,38,37
+OA,24,24,24,23,24,22,24,19,22,21

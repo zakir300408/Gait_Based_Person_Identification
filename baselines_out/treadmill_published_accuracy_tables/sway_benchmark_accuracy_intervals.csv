@@ -1,0 +1,21 @@
+aggregation,condition,model,correct_trials,n_trials,accuracy_pct,ci_lower_pct,ci_upper_pct,interval
+Window level,Trunk sway small,PRISM-Gait,,61,93.0376610505451,88.99282312116294,96.25347172688008,"participant-cluster bootstrap 95% CI, 10000 resamples"
+Window level,Trunk sway small,MultiRocket,,61,84.86124876114965,78.4273783700135,90.4726849032364,"participant-cluster bootstrap 95% CI, 10000 resamples"
+Window level,Trunk sway small,MiniRocket,,61,83.0773042616452,76.30511333840421,89.12352446405409,"participant-cluster bootstrap 95% CI, 10000 resamples"
+Window level,Trunk sway small,FCN-BiLSTM,,61,86.59563924677899,80.07507987468807,92.09548118705062,"participant-cluster bootstrap 95% CI, 10000 resamples"
+Window level,Trunk sway small,InceptionTime,,61,81.3181367690783,74.06615983580208,87.75216579499482,"participant-cluster bootstrap 95% CI, 10000 resamples"
+Window level,Trunk sway large,PRISM-Gait,,59,87.53519324289736,80.87059050224532,93.22629656226991,"participant-cluster bootstrap 95% CI, 10000 resamples"
+Window level,Trunk sway large,MultiRocket,,59,73.07396979779882,64.62643200673566,80.85999160013236,"participant-cluster bootstrap 95% CI, 10000 resamples"
+Window level,Trunk sway large,MiniRocket,,59,71.79421551062197,63.37476362744328,79.67621839974605,"participant-cluster bootstrap 95% CI, 10000 resamples"
+Window level,Trunk sway large,FCN-BiLSTM,,59,71.51266956744306,62.44912359209453,79.82309246386507,"participant-cluster bootstrap 95% CI, 10000 resamples"
+Window level,Trunk sway large,InceptionTime,,59,66.44484259022268,57.28671498162755,75.07081644706345,"participant-cluster bootstrap 95% CI, 10000 resamples"
+Trial level (1 min),Trunk sway small,PRISM-Gait,59.0,61,96.72131147540983,88.81050958050439,99.09621096016377,Wilson 95% CI
+Trial level (1 min),Trunk sway small,MultiRocket,55.0,61,90.1639344262295,80.15539278317405,95.41354241845295,Wilson 95% CI
+Trial level (1 min),Trunk sway small,MiniRocket,55.0,61,90.1639344262295,80.15539278317405,95.41354241845295,Wilson 95% CI
+Trial level (1 min),Trunk sway small,FCN-BiLSTM,57.0,61,93.44262295081967,84.31719832010424,97.42062955104335,Wilson 95% CI
+Trial level (1 min),Trunk sway small,InceptionTime,53.0,61,86.88524590163935,76.19811980700653,93.20192272509989,Wilson 95% CI
+Trial level (1 min),Trunk sway large,PRISM-Gait,56.0,59,94.91525423728814,86.08349778472311,98.25572825270102,Wilson 95% CI
+Trial level (1 min),Trunk sway large,MultiRocket,49.0,59,83.05084745762711,71.536779263512,90.52416065081896,Wilson 95% CI
+Trial level (1 min),Trunk sway large,MiniRocket,50.0,59,84.7457627118644,73.48201621622644,91.76153600140353,Wilson 95% CI
+Trial level (1 min),Trunk sway large,FCN-BiLSTM,46.0,59,77.96610169491525,65.86730063236293,86.64580237207097,Wilson 95% CI
+Trial level (1 min),Trunk sway large,InceptionTime,48.0,59,81.35593220338983,69.62104955303725,89.25727805799468,Wilson 95% CI

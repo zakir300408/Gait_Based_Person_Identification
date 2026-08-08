@@ -1,0 +1,11 @@
+aggregation,condition,model,correct_trials,n_trials,accuracy_pct,ci_lower_pct,ci_upper_pct
+Trial level (1 min),Trunk sway small,PRISM-Gait,59,61,96.72131147540983,88.81050958050439,99.09621096016377
+Trial level (1 min),Trunk sway small,MultiRocket,55,61,90.1639344262295,80.15539278317405,95.41354241845295
+Trial level (1 min),Trunk sway small,MiniRocket,55,61,90.1639344262295,80.15539278317405,95.41354241845295
+Trial level (1 min),Trunk sway small,FCN-BiLSTM,57,61,93.44262295081967,84.31719832010424,97.42062955104335
+Trial level (1 min),Trunk sway small,InceptionTime,53,61,86.88524590163935,76.19811980700653,93.20192272509989
+Trial level (1 min),Trunk sway large,PRISM-Gait,56,59,94.91525423728814,86.08349778472311,98.25572825270102
+Trial level (1 min),Trunk sway large,MultiRocket,49,59,83.05084745762711,71.536779263512,90.52416065081896
+Trial level (1 min),Trunk sway large,MiniRocket,50,59,84.7457627118644,73.48201621622644,91.76153600140353
+Trial level (1 min),Trunk sway large,FCN-BiLSTM,46,59,77.96610169491525,65.86730063236293,86.64580237207097
+Trial level (1 min),Trunk sway large,InceptionTime,48,59,81.35593220338983,69.62104955303725,89.25727805799468

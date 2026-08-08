@@ -1,0 +1,4 @@
+model,registration_seconds,definition,device,source
+PRISM-Gait,18.391137700004037,model-specific feature-transform and classifier fitting after accepted enrollment windows were loaded,Intel Core i9-14900K CPU,current standardized timing run
+MultiRocket,39.544782000011764,transform and classifier fitting after accepted enrollment windows were loaded,Intel Core i9-14900K CPU,current standardized timing run
+MiniRocket,8.643764400010696,transform and classifier fitting after accepted enrollment windows were loaded,Intel Core i9-14900K CPU,current standardized timing run

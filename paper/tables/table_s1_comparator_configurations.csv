@@ -1,0 +1,7 @@
+Model,Family,Input,Native capacity,Enrollment/training,Decision head,Implementation
+PRISM-Gait,Fused fixed signature,200 x 6,"13,049 features",Enrollment-only feature transform; RidgeClassifierCV,Cosine-normalized linear scores,This work
+MiniROCKET,Random convolution,200 x 6,"9,996 features",Enrollment-fitted transform and ridge classifier,Linear ridge scores,Matched local run
+MultiROCKET,Random convolution,200 x 6,"79,968 features",Enrollment-fitted transform and ridge classifier,Linear ridge scores,Matched local run
+FCN-BiLSTM,CNN-RNN hybrid,128 x 6,2.83 M stored model variables,"90/10 enrollment split; early stopping, max 200 epochs",Softmax,Released architecture; matched reconstruction
+InceptionTime,Inception CNN ensemble,200 x 6,"5 x 500,670 parameters",85/15 enrollment split; five 60-epoch members,Mean ensemble probability,Author architecture; matched reconstruction
+Multi-Model LSTM,Six-branch LSTM,80 samples; released grouping,"138,782 parameters","90/10 enrollment split; early stopping, max 200 epochs",Log-softmax,Released architecture; matched reconstruction

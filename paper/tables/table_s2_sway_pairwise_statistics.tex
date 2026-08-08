@@ -1,0 +1,37 @@
+\begin{table*}[t]
+\caption{Paired PRISM-Gait comparisons for controlled trunk sway. Positive differences favor PRISM-Gait.}
+\label{tab:sway_pairwise_statistics}
+\centering
+\small
+\setlength{\tabcolsep}{3.5pt}
+\renewcommand{\arraystretch}{1.16}
+\begin{adjustbox}{max width=\textwidth}
+\begin{tabular}{lllrrrrrc}
+\toprule
+Level & Sway & Comparator & $n$ & PRISM & Comparator & $\Delta$ (pp) & P-only/O-only & $p_{\mathrm{Holm}}$ \\
+\midrule
+Window level & Small & MultiROCKET & 61 & 93.0\% & 84.9\% & +8.1 & -- & $<0.001$ \\
+Window level & Small & MiniROCKET & 61 & 93.0\% & 83.1\% & +9.8 & -- & $<0.001$ \\
+Window level & Small & FCN-BiLSTM & 61 & 93.0\% & 86.6\% & +6.3 & -- & $<0.001$ \\
+Window level & Small & InceptionTime & 61 & 93.0\% & 81.3\% & +11.5 & -- & $<0.001$ \\
+\addlinespace[2pt]
+Window level & Large & MultiROCKET & 59 & 87.5\% & 73.1\% & +14.5 & -- & $<0.001$ \\
+Window level & Large & MiniROCKET & 59 & 87.5\% & 71.8\% & +15.9 & -- & $<0.001$ \\
+Window level & Large & FCN-BiLSTM & 59 & 87.5\% & 71.5\% & +15.9 & -- & $<0.001$ \\
+Window level & Large & InceptionTime & 59 & 87.5\% & 66.4\% & +20.9 & -- & $<0.001$ \\
+\addlinespace[2pt]
+Trial level & Small & MultiROCKET & 61 & 96.7\% & 90.2\% & +6.6 & 4/0 & 0.375 \\
+Trial level & Small & MiniROCKET & 61 & 96.7\% & 90.2\% & +6.6 & 4/0 & 0.375 \\
+Trial level & Small & FCN-BiLSTM & 61 & 96.7\% & 93.4\% & +3.3 & 2/0 & 0.500 \\
+Trial level & Small & InceptionTime & 61 & 96.7\% & 86.9\% & +9.8 & 6/0 & 0.125 \\
+\addlinespace[2pt]
+Trial level & Large & MultiROCKET & 59 & 94.9\% & 83.1\% & +11.9 & 7/0 & 0.047 \\
+Trial level & Large & MiniROCKET & 59 & 94.9\% & 84.7\% & +10.2 & 6/0 & 0.047 \\
+Trial level & Large & FCN-BiLSTM & 59 & 94.9\% & 78.0\% & +16.9 & 10/0 & 0.008 \\
+Trial level & Large & InceptionTime & 59 & 94.9\% & 81.4\% & +13.6 & 9/1 & 0.047 \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\vspace{2pt}
+\parbox{0.98\textwidth}{\footnotesize Window-level comparisons use two-sided paired Wilcoxon signed-rank tests with Pratt handling of zeros on participant accuracies. Trial-level comparisons use exact two-sided McNemar tests; P-only/O-only are the discordant counts for PRISM-Gait and the other model. Holm correction was applied across the four planned comparisons within each figure panel.}
+\end{table*}

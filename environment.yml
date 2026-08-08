@@ -1,0 +1,17 @@
+name: prism-gait
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10.18
+  - h5py=3.13.0
+  - matplotlib=3.8.4
+  - numpy=2.2.6
+  - pandas=2.3.3
+  - pip
+  - pytest
+  - scikit-learn=1.5.2
+  - scipy=1.15.3
+  - pip:
+      - pymupdf==1.26.3
+      - sktime==0.39.0
+      - torch==2.7.1

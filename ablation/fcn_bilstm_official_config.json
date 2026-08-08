@@ -1,0 +1,16 @@
+{
+  "seed": 42,
+  "batch_size": 32,
+  "max_epochs": 200,
+  "early_stopping_patience": 30,
+  "validation_fraction": 0.1,
+  "published_whugait_accuracy_percent": 95.29,
+  "admission_tolerance_percentage_points": 0.5,
+  "whugait_table_value_source": "authors_reported",
+  "whugait_root": "public_datasets/whugait/Dataset #3/Dataset #3",
+  "treadmill_h5": "gait_id_pelvis_62.h5",
+  "output_root": "baselines_out/published_model_reproductions/fcn_bilstm",
+  "treadmill_output": "baselines_out/treadmill_published_subject_sd/fcn_bilstm_official",
+  "run_whugait": false,
+  "run_treadmill_after_admission": true
+}

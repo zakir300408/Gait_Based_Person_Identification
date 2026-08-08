@@ -1,0 +1,26 @@
+\begin{table*}[t]
+\caption{Identification accuracy on public inertial-gait benchmarks. Comparator entries are published values; bold marks the highest value within each dataset.}
+\label{tab:external_benchmark_identification}
+\centering
+\small
+\setlength{\tabcolsep}{3.5pt}
+\renewcommand{\arraystretch}{1.16}
+\begin{adjustbox}{max width=\textwidth}
+\begin{tabular}{llcc}
+\toprule
+Model & WHU-Gait protocol & whuGAIT & OU-ISIR \\
+\midrule
+\textbf{PRISM-Gait (Ours)} & Dataset \#3 & \textbf{95.75\%} & \textbf{99.01\%} \\
+CNN+MHA (\citenum{heAdvancingWearableGaitbased2026}) & Dataset \#3 & 95.55\% & 98.58\% \\
+FCN-BiLSTM (\citenum{rifaatAccurateGaitRecognition2022}) & Dataset \#3 & 95.29\% & 98.30\% \\
+MSCNN-DTCWT (\citenum{sezavarMultiscaleDeepGait2026}) & Dataset \#3 & 95.28\% & 97.01\% \\
+CNN+CEDS (\citenum{huangLightweightAttentionCNN2021}) & Dataset \#3 & 95.09\% & 97.16\% \\
+Proposed Transformer (\citenum{delgadoSantosExploringTransformers2023}) & Source protocol & 94.25\% & 93.33\% \\
+CNN + Multi-Model LSTM (\citenum{tranMultiModelLongShortTerm2021}) & Source protocol & 94.15\% & 89.79\% \\
+Multi-Model LSTM (\citenum{tranMultiModelLongShortTerm2021}) & Source protocol & 93.14\% & 78.92\% \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\vspace{2pt}
+\parbox{0.98\textwidth}{\footnotesize PRISM-Gait was evaluated locally on whuGAIT Dataset~\#3 and the Zou-preprocessed OU-ISIR split. Comparator values are quoted from the cited articles. The first four comparators report whuGAIT Dataset~\#3; the Transformer and Multi-Model LSTM studies report their published whuGAIT protocols. Differences in segmentation and evaluation protocols preclude a pooled superiority claim.}
+\end{table*}

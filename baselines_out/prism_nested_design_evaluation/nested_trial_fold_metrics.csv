@@ -1,0 +1,61 @@
+fold,condition,model,participants,correct_trials,trials,trial_accuracy_pct
+1,trunk_sway_large,FCN-BiLSTM,12,8,12,66.66666666666667
+1,trunk_sway_large,InceptionTime,12,9,12,75.0
+1,trunk_sway_large,MiniRocket,12,10,12,83.33333333333333
+1,trunk_sway_large,Multi-Model LSTM,12,4,12,33.333333333333336
+1,trunk_sway_large,MultiRocket,12,10,12,83.33333333333333
+1,trunk_sway_large,PRISM-Gait,12,12,12,100.0
+1,trunk_sway_small,FCN-BiLSTM,13,12,13,92.3076923076923
+1,trunk_sway_small,InceptionTime,13,12,13,92.3076923076923
+1,trunk_sway_small,MiniRocket,13,13,13,100.0
+1,trunk_sway_small,Multi-Model LSTM,13,9,13,69.23076923076923
+1,trunk_sway_small,MultiRocket,13,13,13,100.0
+1,trunk_sway_small,PRISM-Gait,13,13,13,100.0
+2,trunk_sway_large,FCN-BiLSTM,12,11,12,91.66666666666667
+2,trunk_sway_large,InceptionTime,12,11,12,91.66666666666667
+2,trunk_sway_large,MiniRocket,12,10,12,83.33333333333333
+2,trunk_sway_large,Multi-Model LSTM,12,5,12,41.666666666666664
+2,trunk_sway_large,MultiRocket,12,10,12,83.33333333333333
+2,trunk_sway_large,PRISM-Gait,12,11,12,91.66666666666667
+2,trunk_sway_small,FCN-BiLSTM,12,12,12,100.0
+2,trunk_sway_small,InceptionTime,12,10,12,83.33333333333333
+2,trunk_sway_small,MiniRocket,12,10,12,83.33333333333333
+2,trunk_sway_small,Multi-Model LSTM,12,5,12,41.666666666666664
+2,trunk_sway_small,MultiRocket,12,10,12,83.33333333333333
+2,trunk_sway_small,PRISM-Gait,12,12,12,100.0
+3,trunk_sway_large,FCN-BiLSTM,12,8,12,66.66666666666667
+3,trunk_sway_large,InceptionTime,12,9,12,75.0
+3,trunk_sway_large,MiniRocket,12,11,12,91.66666666666667
+3,trunk_sway_large,Multi-Model LSTM,12,4,12,33.333333333333336
+3,trunk_sway_large,MultiRocket,12,11,12,91.66666666666667
+3,trunk_sway_large,PRISM-Gait,12,12,12,100.0
+3,trunk_sway_small,FCN-BiLSTM,12,12,12,100.0
+3,trunk_sway_small,InceptionTime,12,12,12,100.0
+3,trunk_sway_small,MiniRocket,12,12,12,100.0
+3,trunk_sway_small,Multi-Model LSTM,12,8,12,66.66666666666667
+3,trunk_sway_small,MultiRocket,12,12,12,100.0
+3,trunk_sway_small,PRISM-Gait,12,12,12,100.0
+4,trunk_sway_large,FCN-BiLSTM,11,10,11,90.9090909090909
+4,trunk_sway_large,InceptionTime,11,10,11,90.9090909090909
+4,trunk_sway_large,MiniRocket,11,10,11,90.9090909090909
+4,trunk_sway_large,Multi-Model LSTM,11,6,11,54.54545454545455
+4,trunk_sway_large,MultiRocket,11,9,11,81.81818181818181
+4,trunk_sway_large,PRISM-Gait,11,10,11,90.9090909090909
+4,trunk_sway_small,FCN-BiLSTM,12,10,12,83.33333333333333
+4,trunk_sway_small,InceptionTime,12,9,12,75.0
+4,trunk_sway_small,MiniRocket,12,9,12,75.0
+4,trunk_sway_small,Multi-Model LSTM,12,5,12,41.666666666666664
+4,trunk_sway_small,MultiRocket,12,9,12,75.0
+4,trunk_sway_small,PRISM-Gait,12,10,12,83.33333333333333
+5,trunk_sway_large,FCN-BiLSTM,12,9,12,75.0
+5,trunk_sway_large,InceptionTime,12,9,12,75.0
+5,trunk_sway_large,MiniRocket,12,9,12,75.0
+5,trunk_sway_large,Multi-Model LSTM,12,1,12,8.333333333333334
+5,trunk_sway_large,MultiRocket,12,9,12,75.0
+5,trunk_sway_large,PRISM-Gait,12,11,12,91.66666666666667
+5,trunk_sway_small,FCN-BiLSTM,12,11,12,91.66666666666667
+5,trunk_sway_small,InceptionTime,12,10,12,83.33333333333333
+5,trunk_sway_small,MiniRocket,12,11,12,91.66666666666667
+5,trunk_sway_small,Multi-Model LSTM,12,5,12,41.666666666666664
+5,trunk_sway_small,MultiRocket,12,11,12,91.66666666666667
+5,trunk_sway_small,PRISM-Gait,12,12,12,100.0

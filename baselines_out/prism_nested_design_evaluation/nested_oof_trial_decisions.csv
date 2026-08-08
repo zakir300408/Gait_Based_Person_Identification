@@ -1,0 +1,721 @@
+model,condition,subject,trial,truth,prediction,correct,n_windows,fold,participant
+PRISM-Gait,trunk_sway_small,P001,Trial,0,0,1,58,1,P001
+PRISM-Gait,trunk_sway_small,P003,Trial,2,2,1,59,4,P003
+PRISM-Gait,trunk_sway_small,P004,Trial,3,3,1,59,4,P004
+PRISM-Gait,trunk_sway_small,P005,Trial,4,4,1,58,2,P005
+PRISM-Gait,trunk_sway_small,P006,Trial,5,5,1,57,2,P006
+PRISM-Gait,trunk_sway_small,P007,Trial,6,6,1,58,1,P007
+PRISM-Gait,trunk_sway_small,P008,Trial,7,7,1,58,2,P008
+PRISM-Gait,trunk_sway_small,P009,Trial,8,8,1,57,5,P009
+PRISM-Gait,trunk_sway_small,P010,Trial,9,9,1,58,2,P010
+PRISM-Gait,trunk_sway_small,P011,Trial,10,10,1,57,3,P011
+PRISM-Gait,trunk_sway_small,P012,Trial,11,11,1,59,5,P012
+PRISM-Gait,trunk_sway_small,P013,Trial,12,12,1,59,3,P013
+PRISM-Gait,trunk_sway_small,P014,Trial,13,13,1,58,1,P014
+PRISM-Gait,trunk_sway_small,P015,Trial,14,14,1,68,1,P015
+PRISM-Gait,trunk_sway_small,P016,Trial,15,15,1,68,5,P016
+PRISM-Gait,trunk_sway_small,P018,Trial,16,16,1,68,3,P018
+PRISM-Gait,trunk_sway_small,P019,Trial,17,17,1,68,1,P019
+PRISM-Gait,trunk_sway_small,P020,Trial,18,18,1,68,2,P020
+PRISM-Gait,trunk_sway_small,P021,Trial,19,19,1,68,5,P021
+PRISM-Gait,trunk_sway_small,P022,Trial,20,20,1,68,2,P022
+PRISM-Gait,trunk_sway_small,P023,Trial,21,21,1,68,5,P023
+PRISM-Gait,trunk_sway_small,P024,Trial,22,22,1,69,4,P024
+PRISM-Gait,trunk_sway_small,P025,Trial,23,23,1,68,5,P025
+PRISM-Gait,trunk_sway_small,P026,Trial,24,44,0,68,4,P026
+PRISM-Gait,trunk_sway_small,P028,Trial,25,25,1,69,3,P028
+PRISM-Gait,trunk_sway_small,P029,Trial,26,26,1,68,2,P029
+PRISM-Gait,trunk_sway_small,P030,Trial,27,27,1,68,3,P030
+PRISM-Gait,trunk_sway_small,P031,Trial,28,28,1,69,3,P031
+PRISM-Gait,trunk_sway_small,P032,Trial,29,29,1,71,5,P032
+PRISM-Gait,trunk_sway_small,P033,Trial,30,30,1,67,4,P033
+PRISM-Gait,trunk_sway_small,P034,Trial,31,31,1,68,3,P034
+PRISM-Gait,trunk_sway_small,P035,Trial,32,32,1,69,1,P035
+PRISM-Gait,trunk_sway_small,P038,Trial,33,33,1,68,3,P038
+PRISM-Gait,trunk_sway_small,P039,Trial,34,34,1,69,1,P039
+PRISM-Gait,trunk_sway_small,P040,Trial,35,35,1,68,1,P040
+PRISM-Gait,trunk_sway_small,P041,Trial,36,36,1,68,4,P041
+PRISM-Gait,trunk_sway_small,P042,Trial,37,37,1,68,3,P042
+PRISM-Gait,trunk_sway_small,P043,Trial,38,38,1,69,4,P043
+PRISM-Gait,trunk_sway_small,P044,Trial,39,39,1,68,5,P044
+PRISM-Gait,trunk_sway_small,P045,Trial,40,40,1,69,4,P045
+PRISM-Gait,trunk_sway_small,P046,Trial,41,41,1,68,1,P046
+PRISM-Gait,trunk_sway_small,P049,Trial,42,42,1,68,2,P049
+PRISM-Gait,trunk_sway_small,P050,Trial,43,43,1,67,5,P050
+PRISM-Gait,trunk_sway_small,P051,Trial,44,44,1,68,3,P051
+PRISM-Gait,trunk_sway_small,P052,Trial,45,45,1,69,2,P052
+PRISM-Gait,trunk_sway_small,P053,Trial,46,46,1,68,4,P053
+PRISM-Gait,trunk_sway_small,P054,Trial,47,47,1,68,1,P054
+PRISM-Gait,trunk_sway_small,P055,Trial,48,48,1,67,2,P055
+PRISM-Gait,trunk_sway_small,P056,Trial,49,49,1,68,4,P056
+PRISM-Gait,trunk_sway_small,P057,Trial,50,50,1,69,1,P057
+PRISM-Gait,trunk_sway_small,P058,Trial,51,51,1,68,5,P058
+PRISM-Gait,trunk_sway_small,P060,Trial,52,52,1,67,5,P060
+PRISM-Gait,trunk_sway_small,P061,Trial,53,53,1,70,2,P061
+PRISM-Gait,trunk_sway_small,P062,Trial,54,54,1,68,2,P062
+PRISM-Gait,trunk_sway_small,P064,Trial,55,55,1,69,4,P064
+PRISM-Gait,trunk_sway_small,P065,Trial,56,56,1,69,1,P065
+PRISM-Gait,trunk_sway_small,P066,Trial,57,38,0,68,4,P066
+PRISM-Gait,trunk_sway_small,P067,Trial,58,58,1,69,3,P067
+PRISM-Gait,trunk_sway_small,P068,Trial,59,59,1,69,3,P068
+PRISM-Gait,trunk_sway_small,P069,Trial,60,60,1,70,1,P069
+PRISM-Gait,trunk_sway_small,P070,Trial,61,61,1,69,5,P070
+PRISM-Gait,trunk_sway_large,P001,Trial,0,0,1,58,1,P001
+PRISM-Gait,trunk_sway_large,P003,Trial,2,2,1,58,4,P003
+PRISM-Gait,trunk_sway_large,P004,Trial,3,3,1,58,4,P004
+PRISM-Gait,trunk_sway_large,P005,Trial,4,4,1,59,2,P005
+PRISM-Gait,trunk_sway_large,P006,Trial,5,5,1,58,2,P006
+PRISM-Gait,trunk_sway_large,P007,Trial,6,6,1,58,1,P007
+PRISM-Gait,trunk_sway_large,P008,Trial,7,7,1,58,2,P008
+PRISM-Gait,trunk_sway_large,P009,Trial,8,8,1,57,5,P009
+PRISM-Gait,trunk_sway_large,P010,Trial,9,9,1,59,2,P010
+PRISM-Gait,trunk_sway_large,P011,Trial,10,10,1,57,3,P011
+PRISM-Gait,trunk_sway_large,P012,Trial,11,11,1,59,5,P012
+PRISM-Gait,trunk_sway_large,P013,Trial,12,12,1,59,3,P013
+PRISM-Gait,trunk_sway_large,P014,Trial,13,13,1,57,1,P014
+PRISM-Gait,trunk_sway_large,P015,Trial,14,14,1,67,1,P015
+PRISM-Gait,trunk_sway_large,P016,Trial,15,15,1,69,5,P016
+PRISM-Gait,trunk_sway_large,P018,Trial,16,16,1,68,3,P018
+PRISM-Gait,trunk_sway_large,P019,Trial,17,17,1,68,1,P019
+PRISM-Gait,trunk_sway_large,P020,Trial,18,18,1,68,2,P020
+PRISM-Gait,trunk_sway_large,P021,Trial,19,20,0,67,5,P021
+PRISM-Gait,trunk_sway_large,P022,Trial,20,20,1,68,2,P022
+PRISM-Gait,trunk_sway_large,P023,Trial,21,21,1,69,5,P023
+PRISM-Gait,trunk_sway_large,P024,Trial,22,22,1,68,4,P024
+PRISM-Gait,trunk_sway_large,P025,Trial,23,23,1,68,5,P025
+PRISM-Gait,trunk_sway_large,P026,Trial,24,24,1,69,4,P026
+PRISM-Gait,trunk_sway_large,P028,Trial,25,25,1,69,3,P028
+PRISM-Gait,trunk_sway_large,P029,Trial,26,26,1,68,2,P029
+PRISM-Gait,trunk_sway_large,P030,Trial,27,27,1,68,3,P030
+PRISM-Gait,trunk_sway_large,P031,Trial,28,28,1,69,3,P031
+PRISM-Gait,trunk_sway_large,P032,Trial,29,29,1,69,5,P032
+PRISM-Gait,trunk_sway_large,P033,Trial,30,30,1,69,4,P033
+PRISM-Gait,trunk_sway_large,P034,Trial,31,31,1,69,3,P034
+PRISM-Gait,trunk_sway_large,P035,Trial,32,32,1,69,1,P035
+PRISM-Gait,trunk_sway_large,P038,Trial,33,33,1,69,3,P038
+PRISM-Gait,trunk_sway_large,P039,Trial,34,34,1,68,1,P039
+PRISM-Gait,trunk_sway_large,P040,Trial,35,35,1,68,1,P040
+PRISM-Gait,trunk_sway_large,P041,Trial,36,36,1,68,4,P041
+PRISM-Gait,trunk_sway_large,P042,Trial,37,37,1,69,3,P042
+PRISM-Gait,trunk_sway_large,P043,Trial,38,38,1,69,4,P043
+PRISM-Gait,trunk_sway_large,P044,Trial,39,39,1,68,5,P044
+PRISM-Gait,trunk_sway_large,P045,Trial,40,40,1,69,4,P045
+PRISM-Gait,trunk_sway_large,P046,Trial,41,41,1,69,1,P046
+PRISM-Gait,trunk_sway_large,P049,Trial,42,42,1,68,2,P049
+PRISM-Gait,trunk_sway_large,P050,Trial,43,43,1,68,5,P050
+PRISM-Gait,trunk_sway_large,P051,Trial,44,44,1,68,3,P051
+PRISM-Gait,trunk_sway_large,P052,Trial,45,45,1,69,2,P052
+PRISM-Gait,trunk_sway_large,P053,Trial,46,46,1,68,4,P053
+PRISM-Gait,trunk_sway_large,P055,Trial,48,48,1,69,2,P055
+PRISM-Gait,trunk_sway_large,P057,Trial,50,50,1,68,1,P057
+PRISM-Gait,trunk_sway_large,P058,Trial,51,51,1,69,5,P058
+PRISM-Gait,trunk_sway_large,P060,Trial,52,52,1,68,5,P060
+PRISM-Gait,trunk_sway_large,P061,Trial,53,53,1,69,2,P061
+PRISM-Gait,trunk_sway_large,P062,Trial,54,20,0,69,2,P062
+PRISM-Gait,trunk_sway_large,P064,Trial,55,55,1,69,4,P064
+PRISM-Gait,trunk_sway_large,P065,Trial,56,56,1,69,1,P065
+PRISM-Gait,trunk_sway_large,P066,Trial,57,38,0,69,4,P066
+PRISM-Gait,trunk_sway_large,P067,Trial,58,58,1,68,3,P067
+PRISM-Gait,trunk_sway_large,P068,Trial,59,59,1,69,3,P068
+PRISM-Gait,trunk_sway_large,P069,Trial,60,60,1,70,1,P069
+PRISM-Gait,trunk_sway_large,P070,Trial,61,61,1,69,5,P070
+MiniRocket,trunk_sway_small,P001,Trial,0,0,1,58,1,P001
+MiniRocket,trunk_sway_small,P003,Trial,2,2,1,59,4,P003
+MiniRocket,trunk_sway_small,P004,Trial,3,3,1,59,4,P004
+MiniRocket,trunk_sway_small,P005,Trial,4,4,1,58,2,P005
+MiniRocket,trunk_sway_small,P006,Trial,5,5,1,57,2,P006
+MiniRocket,trunk_sway_small,P007,Trial,6,6,1,58,1,P007
+MiniRocket,trunk_sway_small,P008,Trial,7,7,1,58,2,P008
+MiniRocket,trunk_sway_small,P009,Trial,8,8,1,57,5,P009
+MiniRocket,trunk_sway_small,P010,Trial,9,9,1,58,2,P010
+MiniRocket,trunk_sway_small,P011,Trial,10,10,1,57,3,P011
+MiniRocket,trunk_sway_small,P012,Trial,11,11,1,59,5,P012
+MiniRocket,trunk_sway_small,P013,Trial,12,12,1,59,3,P013
+MiniRocket,trunk_sway_small,P014,Trial,13,13,1,58,1,P014
+MiniRocket,trunk_sway_small,P015,Trial,14,14,1,68,1,P015
+MiniRocket,trunk_sway_small,P016,Trial,15,15,1,68,5,P016
+MiniRocket,trunk_sway_small,P018,Trial,16,16,1,68,3,P018
+MiniRocket,trunk_sway_small,P019,Trial,17,17,1,68,1,P019
+MiniRocket,trunk_sway_small,P020,Trial,18,18,1,68,2,P020
+MiniRocket,trunk_sway_small,P021,Trial,19,19,1,68,5,P021
+MiniRocket,trunk_sway_small,P022,Trial,20,20,1,68,2,P022
+MiniRocket,trunk_sway_small,P023,Trial,21,21,1,68,5,P023
+MiniRocket,trunk_sway_small,P024,Trial,22,22,1,69,4,P024
+MiniRocket,trunk_sway_small,P025,Trial,23,23,1,68,5,P025
+MiniRocket,trunk_sway_small,P026,Trial,24,50,0,68,4,P026
+MiniRocket,trunk_sway_small,P028,Trial,25,25,1,69,3,P028
+MiniRocket,trunk_sway_small,P029,Trial,26,26,1,68,2,P029
+MiniRocket,trunk_sway_small,P030,Trial,27,27,1,68,3,P030
+MiniRocket,trunk_sway_small,P031,Trial,28,28,1,69,3,P031
+MiniRocket,trunk_sway_small,P032,Trial,29,29,1,71,5,P032
+MiniRocket,trunk_sway_small,P033,Trial,30,30,1,67,4,P033
+MiniRocket,trunk_sway_small,P034,Trial,31,31,1,68,3,P034
+MiniRocket,trunk_sway_small,P035,Trial,32,32,1,69,1,P035
+MiniRocket,trunk_sway_small,P038,Trial,33,33,1,68,3,P038
+MiniRocket,trunk_sway_small,P039,Trial,34,34,1,69,1,P039
+MiniRocket,trunk_sway_small,P040,Trial,35,35,1,68,1,P040
+MiniRocket,trunk_sway_small,P041,Trial,36,36,1,68,4,P041
+MiniRocket,trunk_sway_small,P042,Trial,37,37,1,68,3,P042
+MiniRocket,trunk_sway_small,P043,Trial,38,47,0,69,4,P043
+MiniRocket,trunk_sway_small,P044,Trial,39,39,1,68,5,P044
+MiniRocket,trunk_sway_small,P045,Trial,40,40,1,69,4,P045
+MiniRocket,trunk_sway_small,P046,Trial,41,41,1,68,1,P046
+MiniRocket,trunk_sway_small,P049,Trial,42,58,0,68,2,P049
+MiniRocket,trunk_sway_small,P050,Trial,43,43,1,67,5,P050
+MiniRocket,trunk_sway_small,P051,Trial,44,44,1,68,3,P051
+MiniRocket,trunk_sway_small,P052,Trial,45,45,1,69,2,P052
+MiniRocket,trunk_sway_small,P053,Trial,46,46,1,68,4,P053
+MiniRocket,trunk_sway_small,P054,Trial,47,47,1,68,1,P054
+MiniRocket,trunk_sway_small,P055,Trial,48,47,0,67,2,P055
+MiniRocket,trunk_sway_small,P056,Trial,49,49,1,68,4,P056
+MiniRocket,trunk_sway_small,P057,Trial,50,50,1,69,1,P057
+MiniRocket,trunk_sway_small,P058,Trial,51,51,1,68,5,P058
+MiniRocket,trunk_sway_small,P060,Trial,52,52,1,67,5,P060
+MiniRocket,trunk_sway_small,P061,Trial,53,53,1,70,2,P061
+MiniRocket,trunk_sway_small,P062,Trial,54,54,1,68,2,P062
+MiniRocket,trunk_sway_small,P064,Trial,55,55,1,69,4,P064
+MiniRocket,trunk_sway_small,P065,Trial,56,56,1,69,1,P065
+MiniRocket,trunk_sway_small,P066,Trial,57,38,0,68,4,P066
+MiniRocket,trunk_sway_small,P067,Trial,58,58,1,69,3,P067
+MiniRocket,trunk_sway_small,P068,Trial,59,59,1,69,3,P068
+MiniRocket,trunk_sway_small,P069,Trial,60,60,1,70,1,P069
+MiniRocket,trunk_sway_small,P070,Trial,61,38,0,69,5,P070
+MiniRocket,trunk_sway_large,P001,Trial,0,0,1,58,1,P001
+MiniRocket,trunk_sway_large,P003,Trial,2,2,1,58,4,P003
+MiniRocket,trunk_sway_large,P004,Trial,3,3,1,58,4,P004
+MiniRocket,trunk_sway_large,P005,Trial,4,4,1,59,2,P005
+MiniRocket,trunk_sway_large,P006,Trial,5,5,1,58,2,P006
+MiniRocket,trunk_sway_large,P007,Trial,6,6,1,58,1,P007
+MiniRocket,trunk_sway_large,P008,Trial,7,7,1,58,2,P008
+MiniRocket,trunk_sway_large,P009,Trial,8,8,1,57,5,P009
+MiniRocket,trunk_sway_large,P010,Trial,9,9,1,59,2,P010
+MiniRocket,trunk_sway_large,P011,Trial,10,11,0,57,3,P011
+MiniRocket,trunk_sway_large,P012,Trial,11,11,1,59,5,P012
+MiniRocket,trunk_sway_large,P013,Trial,12,12,1,59,3,P013
+MiniRocket,trunk_sway_large,P014,Trial,13,13,1,57,1,P014
+MiniRocket,trunk_sway_large,P015,Trial,14,14,1,67,1,P015
+MiniRocket,trunk_sway_large,P016,Trial,15,15,1,69,5,P016
+MiniRocket,trunk_sway_large,P018,Trial,16,16,1,68,3,P018
+MiniRocket,trunk_sway_large,P019,Trial,17,17,1,68,1,P019
+MiniRocket,trunk_sway_large,P020,Trial,18,18,1,68,2,P020
+MiniRocket,trunk_sway_large,P021,Trial,19,20,0,67,5,P021
+MiniRocket,trunk_sway_large,P022,Trial,20,20,1,68,2,P022
+MiniRocket,trunk_sway_large,P023,Trial,21,21,1,69,5,P023
+MiniRocket,trunk_sway_large,P024,Trial,22,22,1,68,4,P024
+MiniRocket,trunk_sway_large,P025,Trial,23,23,1,68,5,P025
+MiniRocket,trunk_sway_large,P026,Trial,24,24,1,69,4,P026
+MiniRocket,trunk_sway_large,P028,Trial,25,25,1,69,3,P028
+MiniRocket,trunk_sway_large,P029,Trial,26,26,1,68,2,P029
+MiniRocket,trunk_sway_large,P030,Trial,27,27,1,68,3,P030
+MiniRocket,trunk_sway_large,P031,Trial,28,28,1,69,3,P031
+MiniRocket,trunk_sway_large,P032,Trial,29,29,1,69,5,P032
+MiniRocket,trunk_sway_large,P033,Trial,30,30,1,69,4,P033
+MiniRocket,trunk_sway_large,P034,Trial,31,31,1,69,3,P034
+MiniRocket,trunk_sway_large,P035,Trial,32,32,1,69,1,P035
+MiniRocket,trunk_sway_large,P038,Trial,33,33,1,69,3,P038
+MiniRocket,trunk_sway_large,P039,Trial,34,11,0,68,1,P039
+MiniRocket,trunk_sway_large,P040,Trial,35,35,1,68,1,P040
+MiniRocket,trunk_sway_large,P041,Trial,36,36,1,68,4,P041
+MiniRocket,trunk_sway_large,P042,Trial,37,37,1,69,3,P042
+MiniRocket,trunk_sway_large,P043,Trial,38,38,1,69,4,P043
+MiniRocket,trunk_sway_large,P044,Trial,39,27,0,68,5,P044
+MiniRocket,trunk_sway_large,P045,Trial,40,40,1,69,4,P045
+MiniRocket,trunk_sway_large,P046,Trial,41,41,1,69,1,P046
+MiniRocket,trunk_sway_large,P049,Trial,42,42,1,68,2,P049
+MiniRocket,trunk_sway_large,P050,Trial,43,43,1,68,5,P050
+MiniRocket,trunk_sway_large,P051,Trial,44,44,1,68,3,P051
+MiniRocket,trunk_sway_large,P052,Trial,45,45,1,69,2,P052
+MiniRocket,trunk_sway_large,P053,Trial,46,46,1,68,4,P053
+MiniRocket,trunk_sway_large,P055,Trial,48,47,0,69,2,P055
+MiniRocket,trunk_sway_large,P057,Trial,50,50,1,68,1,P057
+MiniRocket,trunk_sway_large,P058,Trial,51,51,1,69,5,P058
+MiniRocket,trunk_sway_large,P060,Trial,52,52,1,68,5,P060
+MiniRocket,trunk_sway_large,P061,Trial,53,53,1,69,2,P061
+MiniRocket,trunk_sway_large,P062,Trial,54,47,0,69,2,P062
+MiniRocket,trunk_sway_large,P064,Trial,55,55,1,69,4,P064
+MiniRocket,trunk_sway_large,P065,Trial,56,56,1,69,1,P065
+MiniRocket,trunk_sway_large,P066,Trial,57,38,0,69,4,P066
+MiniRocket,trunk_sway_large,P067,Trial,58,58,1,68,3,P067
+MiniRocket,trunk_sway_large,P068,Trial,59,59,1,69,3,P068
+MiniRocket,trunk_sway_large,P069,Trial,60,38,0,70,1,P069
+MiniRocket,trunk_sway_large,P070,Trial,61,47,0,69,5,P070
+MultiRocket,trunk_sway_small,P001,Trial,0,0,1,58,1,P001
+MultiRocket,trunk_sway_small,P003,Trial,2,2,1,59,4,P003
+MultiRocket,trunk_sway_small,P004,Trial,3,3,1,59,4,P004
+MultiRocket,trunk_sway_small,P005,Trial,4,4,1,58,2,P005
+MultiRocket,trunk_sway_small,P006,Trial,5,5,1,57,2,P006
+MultiRocket,trunk_sway_small,P007,Trial,6,6,1,58,1,P007
+MultiRocket,trunk_sway_small,P008,Trial,7,7,1,58,2,P008
+MultiRocket,trunk_sway_small,P009,Trial,8,8,1,57,5,P009
+MultiRocket,trunk_sway_small,P010,Trial,9,9,1,58,2,P010
+MultiRocket,trunk_sway_small,P011,Trial,10,10,1,57,3,P011
+MultiRocket,trunk_sway_small,P012,Trial,11,11,1,59,5,P012
+MultiRocket,trunk_sway_small,P013,Trial,12,12,1,59,3,P013
+MultiRocket,trunk_sway_small,P014,Trial,13,13,1,58,1,P014
+MultiRocket,trunk_sway_small,P015,Trial,14,14,1,68,1,P015
+MultiRocket,trunk_sway_small,P016,Trial,15,15,1,68,5,P016
+MultiRocket,trunk_sway_small,P018,Trial,16,16,1,68,3,P018
+MultiRocket,trunk_sway_small,P019,Trial,17,17,1,68,1,P019
+MultiRocket,trunk_sway_small,P020,Trial,18,18,1,68,2,P020
+MultiRocket,trunk_sway_small,P021,Trial,19,19,1,68,5,P021
+MultiRocket,trunk_sway_small,P022,Trial,20,20,1,68,2,P022
+MultiRocket,trunk_sway_small,P023,Trial,21,21,1,68,5,P023
+MultiRocket,trunk_sway_small,P024,Trial,22,22,1,69,4,P024
+MultiRocket,trunk_sway_small,P025,Trial,23,23,1,68,5,P025
+MultiRocket,trunk_sway_small,P026,Trial,24,50,0,68,4,P026
+MultiRocket,trunk_sway_small,P028,Trial,25,25,1,69,3,P028
+MultiRocket,trunk_sway_small,P029,Trial,26,26,1,68,2,P029
+MultiRocket,trunk_sway_small,P030,Trial,27,27,1,68,3,P030
+MultiRocket,trunk_sway_small,P031,Trial,28,28,1,69,3,P031
+MultiRocket,trunk_sway_small,P032,Trial,29,29,1,71,5,P032
+MultiRocket,trunk_sway_small,P033,Trial,30,30,1,67,4,P033
+MultiRocket,trunk_sway_small,P034,Trial,31,31,1,68,3,P034
+MultiRocket,trunk_sway_small,P035,Trial,32,32,1,69,1,P035
+MultiRocket,trunk_sway_small,P038,Trial,33,33,1,68,3,P038
+MultiRocket,trunk_sway_small,P039,Trial,34,34,1,69,1,P039
+MultiRocket,trunk_sway_small,P040,Trial,35,35,1,68,1,P040
+MultiRocket,trunk_sway_small,P041,Trial,36,36,1,68,4,P041
+MultiRocket,trunk_sway_small,P042,Trial,37,37,1,68,3,P042
+MultiRocket,trunk_sway_small,P043,Trial,38,47,0,69,4,P043
+MultiRocket,trunk_sway_small,P044,Trial,39,39,1,68,5,P044
+MultiRocket,trunk_sway_small,P045,Trial,40,40,1,69,4,P045
+MultiRocket,trunk_sway_small,P046,Trial,41,41,1,68,1,P046
+MultiRocket,trunk_sway_small,P049,Trial,42,42,1,68,2,P049
+MultiRocket,trunk_sway_small,P050,Trial,43,43,1,67,5,P050
+MultiRocket,trunk_sway_small,P051,Trial,44,44,1,68,3,P051
+MultiRocket,trunk_sway_small,P052,Trial,45,45,1,69,2,P052
+MultiRocket,trunk_sway_small,P053,Trial,46,46,1,68,4,P053
+MultiRocket,trunk_sway_small,P054,Trial,47,47,1,68,1,P054
+MultiRocket,trunk_sway_small,P055,Trial,48,47,0,67,2,P055
+MultiRocket,trunk_sway_small,P056,Trial,49,49,1,68,4,P056
+MultiRocket,trunk_sway_small,P057,Trial,50,50,1,69,1,P057
+MultiRocket,trunk_sway_small,P058,Trial,51,51,1,68,5,P058
+MultiRocket,trunk_sway_small,P060,Trial,52,52,1,67,5,P060
+MultiRocket,trunk_sway_small,P061,Trial,53,53,1,70,2,P061
+MultiRocket,trunk_sway_small,P062,Trial,54,47,0,68,2,P062
+MultiRocket,trunk_sway_small,P064,Trial,55,55,1,69,4,P064
+MultiRocket,trunk_sway_small,P065,Trial,56,56,1,69,1,P065
+MultiRocket,trunk_sway_small,P066,Trial,57,38,0,68,4,P066
+MultiRocket,trunk_sway_small,P067,Trial,58,58,1,69,3,P067
+MultiRocket,trunk_sway_small,P068,Trial,59,59,1,69,3,P068
+MultiRocket,trunk_sway_small,P069,Trial,60,60,1,70,1,P069
+MultiRocket,trunk_sway_small,P070,Trial,61,38,0,69,5,P070
+MultiRocket,trunk_sway_large,P001,Trial,0,0,1,58,1,P001
+MultiRocket,trunk_sway_large,P003,Trial,2,2,1,58,4,P003
+MultiRocket,trunk_sway_large,P004,Trial,3,3,1,58,4,P004
+MultiRocket,trunk_sway_large,P005,Trial,4,4,1,59,2,P005
+MultiRocket,trunk_sway_large,P006,Trial,5,5,1,58,2,P006
+MultiRocket,trunk_sway_large,P007,Trial,6,6,1,58,1,P007
+MultiRocket,trunk_sway_large,P008,Trial,7,7,1,58,2,P008
+MultiRocket,trunk_sway_large,P009,Trial,8,8,1,57,5,P009
+MultiRocket,trunk_sway_large,P010,Trial,9,9,1,59,2,P010
+MultiRocket,trunk_sway_large,P011,Trial,10,20,0,57,3,P011
+MultiRocket,trunk_sway_large,P012,Trial,11,11,1,59,5,P012
+MultiRocket,trunk_sway_large,P013,Trial,12,12,1,59,3,P013
+MultiRocket,trunk_sway_large,P014,Trial,13,13,1,57,1,P014
+MultiRocket,trunk_sway_large,P015,Trial,14,14,1,67,1,P015
+MultiRocket,trunk_sway_large,P016,Trial,15,15,1,69,5,P016
+MultiRocket,trunk_sway_large,P018,Trial,16,16,1,68,3,P018
+MultiRocket,trunk_sway_large,P019,Trial,17,17,1,68,1,P019
+MultiRocket,trunk_sway_large,P020,Trial,18,18,1,68,2,P020
+MultiRocket,trunk_sway_large,P021,Trial,19,20,0,67,5,P021
+MultiRocket,trunk_sway_large,P022,Trial,20,20,1,68,2,P022
+MultiRocket,trunk_sway_large,P023,Trial,21,21,1,69,5,P023
+MultiRocket,trunk_sway_large,P024,Trial,22,22,1,68,4,P024
+MultiRocket,trunk_sway_large,P025,Trial,23,23,1,68,5,P025
+MultiRocket,trunk_sway_large,P026,Trial,24,24,1,69,4,P026
+MultiRocket,trunk_sway_large,P028,Trial,25,25,1,69,3,P028
+MultiRocket,trunk_sway_large,P029,Trial,26,26,1,68,2,P029
+MultiRocket,trunk_sway_large,P030,Trial,27,27,1,68,3,P030
+MultiRocket,trunk_sway_large,P031,Trial,28,28,1,69,3,P031
+MultiRocket,trunk_sway_large,P032,Trial,29,29,1,69,5,P032
+MultiRocket,trunk_sway_large,P033,Trial,30,30,1,69,4,P033
+MultiRocket,trunk_sway_large,P034,Trial,31,31,1,69,3,P034
+MultiRocket,trunk_sway_large,P035,Trial,32,32,1,69,1,P035
+MultiRocket,trunk_sway_large,P038,Trial,33,33,1,69,3,P038
+MultiRocket,trunk_sway_large,P039,Trial,34,36,0,68,1,P039
+MultiRocket,trunk_sway_large,P040,Trial,35,35,1,68,1,P040
+MultiRocket,trunk_sway_large,P041,Trial,36,36,1,68,4,P041
+MultiRocket,trunk_sway_large,P042,Trial,37,37,1,69,3,P042
+MultiRocket,trunk_sway_large,P043,Trial,38,47,0,69,4,P043
+MultiRocket,trunk_sway_large,P044,Trial,39,27,0,68,5,P044
+MultiRocket,trunk_sway_large,P045,Trial,40,40,1,69,4,P045
+MultiRocket,trunk_sway_large,P046,Trial,41,41,1,69,1,P046
+MultiRocket,trunk_sway_large,P049,Trial,42,42,1,68,2,P049
+MultiRocket,trunk_sway_large,P050,Trial,43,43,1,68,5,P050
+MultiRocket,trunk_sway_large,P051,Trial,44,44,1,68,3,P051
+MultiRocket,trunk_sway_large,P052,Trial,45,45,1,69,2,P052
+MultiRocket,trunk_sway_large,P053,Trial,46,46,1,68,4,P053
+MultiRocket,trunk_sway_large,P055,Trial,48,47,0,69,2,P055
+MultiRocket,trunk_sway_large,P057,Trial,50,50,1,68,1,P057
+MultiRocket,trunk_sway_large,P058,Trial,51,51,1,69,5,P058
+MultiRocket,trunk_sway_large,P060,Trial,52,52,1,68,5,P060
+MultiRocket,trunk_sway_large,P061,Trial,53,53,1,69,2,P061
+MultiRocket,trunk_sway_large,P062,Trial,54,47,0,69,2,P062
+MultiRocket,trunk_sway_large,P064,Trial,55,55,1,69,4,P064
+MultiRocket,trunk_sway_large,P065,Trial,56,56,1,69,1,P065
+MultiRocket,trunk_sway_large,P066,Trial,57,38,0,69,4,P066
+MultiRocket,trunk_sway_large,P067,Trial,58,58,1,68,3,P067
+MultiRocket,trunk_sway_large,P068,Trial,59,59,1,69,3,P068
+MultiRocket,trunk_sway_large,P069,Trial,60,47,0,70,1,P069
+MultiRocket,trunk_sway_large,P070,Trial,61,47,0,69,5,P070
+FCN-BiLSTM,trunk_sway_large,P001,Trial,0,0,1,58,1,P001
+FCN-BiLSTM,trunk_sway_large,P003,Trial,2,2,1,58,4,P003
+FCN-BiLSTM,trunk_sway_large,P004,Trial,3,3,1,58,4,P004
+FCN-BiLSTM,trunk_sway_large,P005,Trial,4,4,1,59,2,P005
+FCN-BiLSTM,trunk_sway_large,P006,Trial,5,5,1,58,2,P006
+FCN-BiLSTM,trunk_sway_large,P007,Trial,6,6,1,58,1,P007
+FCN-BiLSTM,trunk_sway_large,P008,Trial,7,7,1,58,2,P008
+FCN-BiLSTM,trunk_sway_large,P009,Trial,8,8,1,57,5,P009
+FCN-BiLSTM,trunk_sway_large,P010,Trial,9,9,1,59,2,P010
+FCN-BiLSTM,trunk_sway_large,P011,Trial,10,11,0,57,3,P011
+FCN-BiLSTM,trunk_sway_large,P012,Trial,11,11,1,59,5,P012
+FCN-BiLSTM,trunk_sway_large,P013,Trial,12,12,1,59,3,P013
+FCN-BiLSTM,trunk_sway_large,P014,Trial,13,13,1,57,1,P014
+FCN-BiLSTM,trunk_sway_large,P015,Trial,14,14,1,67,1,P015
+FCN-BiLSTM,trunk_sway_large,P016,Trial,15,15,1,69,5,P016
+FCN-BiLSTM,trunk_sway_large,P018,Trial,16,25,0,68,3,P018
+FCN-BiLSTM,trunk_sway_large,P019,Trial,17,59,0,68,1,P019
+FCN-BiLSTM,trunk_sway_large,P020,Trial,18,18,1,68,2,P020
+FCN-BiLSTM,trunk_sway_large,P021,Trial,19,59,0,67,5,P021
+FCN-BiLSTM,trunk_sway_large,P022,Trial,20,20,1,68,2,P022
+FCN-BiLSTM,trunk_sway_large,P023,Trial,21,21,1,69,5,P023
+FCN-BiLSTM,trunk_sway_large,P024,Trial,22,22,1,68,4,P024
+FCN-BiLSTM,trunk_sway_large,P025,Trial,23,23,1,68,5,P025
+FCN-BiLSTM,trunk_sway_large,P026,Trial,24,24,1,69,4,P026
+FCN-BiLSTM,trunk_sway_large,P028,Trial,25,25,1,69,3,P028
+FCN-BiLSTM,trunk_sway_large,P029,Trial,26,26,1,68,2,P029
+FCN-BiLSTM,trunk_sway_large,P030,Trial,27,27,1,68,3,P030
+FCN-BiLSTM,trunk_sway_large,P031,Trial,28,28,1,69,3,P031
+FCN-BiLSTM,trunk_sway_large,P032,Trial,29,29,1,69,5,P032
+FCN-BiLSTM,trunk_sway_large,P033,Trial,30,30,1,69,4,P033
+FCN-BiLSTM,trunk_sway_large,P034,Trial,31,31,1,69,3,P034
+FCN-BiLSTM,trunk_sway_large,P035,Trial,32,32,1,69,1,P035
+FCN-BiLSTM,trunk_sway_large,P038,Trial,33,47,0,69,3,P038
+FCN-BiLSTM,trunk_sway_large,P039,Trial,34,25,0,68,1,P039
+FCN-BiLSTM,trunk_sway_large,P040,Trial,35,35,1,68,1,P040
+FCN-BiLSTM,trunk_sway_large,P041,Trial,36,36,1,68,4,P041
+FCN-BiLSTM,trunk_sway_large,P042,Trial,37,37,1,69,3,P042
+FCN-BiLSTM,trunk_sway_large,P043,Trial,38,38,1,69,4,P043
+FCN-BiLSTM,trunk_sway_large,P044,Trial,39,39,1,68,5,P044
+FCN-BiLSTM,trunk_sway_large,P045,Trial,40,40,1,69,4,P045
+FCN-BiLSTM,trunk_sway_large,P046,Trial,41,41,1,69,1,P046
+FCN-BiLSTM,trunk_sway_large,P049,Trial,42,42,1,68,2,P049
+FCN-BiLSTM,trunk_sway_large,P050,Trial,43,43,1,68,5,P050
+FCN-BiLSTM,trunk_sway_large,P051,Trial,44,38,0,68,3,P051
+FCN-BiLSTM,trunk_sway_large,P052,Trial,45,45,1,69,2,P052
+FCN-BiLSTM,trunk_sway_large,P053,Trial,46,46,1,68,4,P053
+FCN-BiLSTM,trunk_sway_large,P055,Trial,48,48,1,69,2,P055
+FCN-BiLSTM,trunk_sway_large,P057,Trial,50,50,1,68,1,P057
+FCN-BiLSTM,trunk_sway_large,P058,Trial,51,47,0,69,5,P058
+FCN-BiLSTM,trunk_sway_large,P060,Trial,52,52,1,68,5,P060
+FCN-BiLSTM,trunk_sway_large,P061,Trial,53,53,1,69,2,P061
+FCN-BiLSTM,trunk_sway_large,P062,Trial,54,20,0,69,2,P062
+FCN-BiLSTM,trunk_sway_large,P064,Trial,55,55,1,69,4,P064
+FCN-BiLSTM,trunk_sway_large,P065,Trial,56,59,0,69,1,P065
+FCN-BiLSTM,trunk_sway_large,P066,Trial,57,47,0,69,4,P066
+FCN-BiLSTM,trunk_sway_large,P067,Trial,58,58,1,68,3,P067
+FCN-BiLSTM,trunk_sway_large,P068,Trial,59,59,1,69,3,P068
+FCN-BiLSTM,trunk_sway_large,P069,Trial,60,47,0,70,1,P069
+FCN-BiLSTM,trunk_sway_large,P070,Trial,61,59,0,69,5,P070
+FCN-BiLSTM,trunk_sway_small,P001,Trial,0,0,1,58,1,P001
+FCN-BiLSTM,trunk_sway_small,P003,Trial,2,2,1,59,4,P003
+FCN-BiLSTM,trunk_sway_small,P004,Trial,3,3,1,59,4,P004
+FCN-BiLSTM,trunk_sway_small,P005,Trial,4,4,1,58,2,P005
+FCN-BiLSTM,trunk_sway_small,P006,Trial,5,5,1,57,2,P006
+FCN-BiLSTM,trunk_sway_small,P007,Trial,6,6,1,58,1,P007
+FCN-BiLSTM,trunk_sway_small,P008,Trial,7,7,1,58,2,P008
+FCN-BiLSTM,trunk_sway_small,P009,Trial,8,8,1,57,5,P009
+FCN-BiLSTM,trunk_sway_small,P010,Trial,9,9,1,58,2,P010
+FCN-BiLSTM,trunk_sway_small,P011,Trial,10,10,1,57,3,P011
+FCN-BiLSTM,trunk_sway_small,P012,Trial,11,11,1,59,5,P012
+FCN-BiLSTM,trunk_sway_small,P013,Trial,12,12,1,59,3,P013
+FCN-BiLSTM,trunk_sway_small,P014,Trial,13,13,1,58,1,P014
+FCN-BiLSTM,trunk_sway_small,P015,Trial,14,14,1,68,1,P015
+FCN-BiLSTM,trunk_sway_small,P016,Trial,15,15,1,68,5,P016
+FCN-BiLSTM,trunk_sway_small,P018,Trial,16,16,1,68,3,P018
+FCN-BiLSTM,trunk_sway_small,P019,Trial,17,17,1,68,1,P019
+FCN-BiLSTM,trunk_sway_small,P020,Trial,18,18,1,68,2,P020
+FCN-BiLSTM,trunk_sway_small,P021,Trial,19,19,1,68,5,P021
+FCN-BiLSTM,trunk_sway_small,P022,Trial,20,20,1,68,2,P022
+FCN-BiLSTM,trunk_sway_small,P023,Trial,21,21,1,68,5,P023
+FCN-BiLSTM,trunk_sway_small,P024,Trial,22,22,1,69,4,P024
+FCN-BiLSTM,trunk_sway_small,P025,Trial,23,23,1,68,5,P025
+FCN-BiLSTM,trunk_sway_small,P026,Trial,24,4,0,68,4,P026
+FCN-BiLSTM,trunk_sway_small,P028,Trial,25,25,1,69,3,P028
+FCN-BiLSTM,trunk_sway_small,P029,Trial,26,26,1,68,2,P029
+FCN-BiLSTM,trunk_sway_small,P030,Trial,27,27,1,68,3,P030
+FCN-BiLSTM,trunk_sway_small,P031,Trial,28,28,1,69,3,P031
+FCN-BiLSTM,trunk_sway_small,P032,Trial,29,29,1,71,5,P032
+FCN-BiLSTM,trunk_sway_small,P033,Trial,30,30,1,67,4,P033
+FCN-BiLSTM,trunk_sway_small,P034,Trial,31,31,1,68,3,P034
+FCN-BiLSTM,trunk_sway_small,P035,Trial,32,32,1,69,1,P035
+FCN-BiLSTM,trunk_sway_small,P038,Trial,33,33,1,68,3,P038
+FCN-BiLSTM,trunk_sway_small,P039,Trial,34,25,0,69,1,P039
+FCN-BiLSTM,trunk_sway_small,P040,Trial,35,35,1,68,1,P040
+FCN-BiLSTM,trunk_sway_small,P041,Trial,36,36,1,68,4,P041
+FCN-BiLSTM,trunk_sway_small,P042,Trial,37,37,1,68,3,P042
+FCN-BiLSTM,trunk_sway_small,P043,Trial,38,38,1,69,4,P043
+FCN-BiLSTM,trunk_sway_small,P044,Trial,39,39,1,68,5,P044
+FCN-BiLSTM,trunk_sway_small,P045,Trial,40,40,1,69,4,P045
+FCN-BiLSTM,trunk_sway_small,P046,Trial,41,41,1,68,1,P046
+FCN-BiLSTM,trunk_sway_small,P049,Trial,42,42,1,68,2,P049
+FCN-BiLSTM,trunk_sway_small,P050,Trial,43,43,1,67,5,P050
+FCN-BiLSTM,trunk_sway_small,P051,Trial,44,44,1,68,3,P051
+FCN-BiLSTM,trunk_sway_small,P052,Trial,45,45,1,69,2,P052
+FCN-BiLSTM,trunk_sway_small,P053,Trial,46,46,1,68,4,P053
+FCN-BiLSTM,trunk_sway_small,P054,Trial,47,47,1,68,1,P054
+FCN-BiLSTM,trunk_sway_small,P055,Trial,48,48,1,67,2,P055
+FCN-BiLSTM,trunk_sway_small,P056,Trial,49,49,1,68,4,P056
+FCN-BiLSTM,trunk_sway_small,P057,Trial,50,50,1,69,1,P057
+FCN-BiLSTM,trunk_sway_small,P058,Trial,51,39,0,68,5,P058
+FCN-BiLSTM,trunk_sway_small,P060,Trial,52,52,1,67,5,P060
+FCN-BiLSTM,trunk_sway_small,P061,Trial,53,53,1,70,2,P061
+FCN-BiLSTM,trunk_sway_small,P062,Trial,54,54,1,68,2,P062
+FCN-BiLSTM,trunk_sway_small,P064,Trial,55,55,1,69,4,P064
+FCN-BiLSTM,trunk_sway_small,P065,Trial,56,56,1,69,1,P065
+FCN-BiLSTM,trunk_sway_small,P066,Trial,57,38,0,68,4,P066
+FCN-BiLSTM,trunk_sway_small,P067,Trial,58,58,1,69,3,P067
+FCN-BiLSTM,trunk_sway_small,P068,Trial,59,59,1,69,3,P068
+FCN-BiLSTM,trunk_sway_small,P069,Trial,60,60,1,70,1,P069
+FCN-BiLSTM,trunk_sway_small,P070,Trial,61,61,1,69,5,P070
+InceptionTime,trunk_sway_small,P001,Trial,0,0,1,58,1,P001
+InceptionTime,trunk_sway_small,P003,Trial,2,2,1,59,4,P003
+InceptionTime,trunk_sway_small,P004,Trial,3,3,1,59,4,P004
+InceptionTime,trunk_sway_small,P005,Trial,4,4,1,58,2,P005
+InceptionTime,trunk_sway_small,P006,Trial,5,5,1,57,2,P006
+InceptionTime,trunk_sway_small,P007,Trial,6,6,1,58,1,P007
+InceptionTime,trunk_sway_small,P008,Trial,7,7,1,58,2,P008
+InceptionTime,trunk_sway_small,P009,Trial,8,8,1,57,5,P009
+InceptionTime,trunk_sway_small,P010,Trial,9,9,1,58,2,P010
+InceptionTime,trunk_sway_small,P011,Trial,10,10,1,57,3,P011
+InceptionTime,trunk_sway_small,P012,Trial,11,11,1,59,5,P012
+InceptionTime,trunk_sway_small,P013,Trial,12,12,1,59,3,P013
+InceptionTime,trunk_sway_small,P014,Trial,13,13,1,58,1,P014
+InceptionTime,trunk_sway_small,P015,Trial,14,14,1,68,1,P015
+InceptionTime,trunk_sway_small,P016,Trial,15,15,1,68,5,P016
+InceptionTime,trunk_sway_small,P018,Trial,16,16,1,68,3,P018
+InceptionTime,trunk_sway_small,P019,Trial,17,17,1,68,1,P019
+InceptionTime,trunk_sway_small,P020,Trial,18,18,1,68,2,P020
+InceptionTime,trunk_sway_small,P021,Trial,19,19,1,68,5,P021
+InceptionTime,trunk_sway_small,P022,Trial,20,20,1,68,2,P022
+InceptionTime,trunk_sway_small,P023,Trial,21,21,1,68,5,P023
+InceptionTime,trunk_sway_small,P024,Trial,22,22,1,69,4,P024
+InceptionTime,trunk_sway_small,P025,Trial,23,23,1,68,5,P025
+InceptionTime,trunk_sway_small,P026,Trial,24,50,0,68,4,P026
+InceptionTime,trunk_sway_small,P028,Trial,25,25,1,69,3,P028
+InceptionTime,trunk_sway_small,P029,Trial,26,26,1,68,2,P029
+InceptionTime,trunk_sway_small,P030,Trial,27,27,1,68,3,P030
+InceptionTime,trunk_sway_small,P031,Trial,28,28,1,69,3,P031
+InceptionTime,trunk_sway_small,P032,Trial,29,29,1,71,5,P032
+InceptionTime,trunk_sway_small,P033,Trial,30,30,1,67,4,P033
+InceptionTime,trunk_sway_small,P034,Trial,31,31,1,68,3,P034
+InceptionTime,trunk_sway_small,P035,Trial,32,32,1,69,1,P035
+InceptionTime,trunk_sway_small,P038,Trial,33,33,1,68,3,P038
+InceptionTime,trunk_sway_small,P039,Trial,34,25,0,69,1,P039
+InceptionTime,trunk_sway_small,P040,Trial,35,35,1,68,1,P040
+InceptionTime,trunk_sway_small,P041,Trial,36,36,1,68,4,P041
+InceptionTime,trunk_sway_small,P042,Trial,37,37,1,68,3,P042
+InceptionTime,trunk_sway_small,P043,Trial,38,47,0,69,4,P043
+InceptionTime,trunk_sway_small,P044,Trial,39,39,1,68,5,P044
+InceptionTime,trunk_sway_small,P045,Trial,40,40,1,69,4,P045
+InceptionTime,trunk_sway_small,P046,Trial,41,41,1,68,1,P046
+InceptionTime,trunk_sway_small,P049,Trial,42,28,0,68,2,P049
+InceptionTime,trunk_sway_small,P050,Trial,43,43,1,67,5,P050
+InceptionTime,trunk_sway_small,P051,Trial,44,44,1,68,3,P051
+InceptionTime,trunk_sway_small,P052,Trial,45,45,1,69,2,P052
+InceptionTime,trunk_sway_small,P053,Trial,46,46,1,68,4,P053
+InceptionTime,trunk_sway_small,P054,Trial,47,47,1,68,1,P054
+InceptionTime,trunk_sway_small,P055,Trial,48,38,0,67,2,P055
+InceptionTime,trunk_sway_small,P056,Trial,49,49,1,68,4,P056
+InceptionTime,trunk_sway_small,P057,Trial,50,50,1,69,1,P057
+InceptionTime,trunk_sway_small,P058,Trial,51,28,0,68,5,P058
+InceptionTime,trunk_sway_small,P060,Trial,52,52,1,67,5,P060
+InceptionTime,trunk_sway_small,P061,Trial,53,53,1,70,2,P061
+InceptionTime,trunk_sway_small,P062,Trial,54,54,1,68,2,P062
+InceptionTime,trunk_sway_small,P064,Trial,55,55,1,69,4,P064
+InceptionTime,trunk_sway_small,P065,Trial,56,56,1,69,1,P065
+InceptionTime,trunk_sway_small,P066,Trial,57,38,0,68,4,P066
+InceptionTime,trunk_sway_small,P067,Trial,58,58,1,69,3,P067
+InceptionTime,trunk_sway_small,P068,Trial,59,59,1,69,3,P068
+InceptionTime,trunk_sway_small,P069,Trial,60,60,1,70,1,P069
+InceptionTime,trunk_sway_small,P070,Trial,61,38,0,69,5,P070
+InceptionTime,trunk_sway_large,P001,Trial,0,0,1,58,1,P001
+InceptionTime,trunk_sway_large,P003,Trial,2,2,1,58,4,P003
+InceptionTime,trunk_sway_large,P004,Trial,3,3,1,58,4,P004
+InceptionTime,trunk_sway_large,P005,Trial,4,4,1,59,2,P005
+InceptionTime,trunk_sway_large,P006,Trial,5,5,1,58,2,P006
+InceptionTime,trunk_sway_large,P007,Trial,6,6,1,58,1,P007
+InceptionTime,trunk_sway_large,P008,Trial,7,7,1,58,2,P008
+InceptionTime,trunk_sway_large,P009,Trial,8,8,1,57,5,P009
+InceptionTime,trunk_sway_large,P010,Trial,9,9,1,59,2,P010
+InceptionTime,trunk_sway_large,P011,Trial,10,10,1,57,3,P011
+InceptionTime,trunk_sway_large,P012,Trial,11,11,1,59,5,P012
+InceptionTime,trunk_sway_large,P013,Trial,12,12,1,59,3,P013
+InceptionTime,trunk_sway_large,P014,Trial,13,13,1,57,1,P014
+InceptionTime,trunk_sway_large,P015,Trial,14,14,1,67,1,P015
+InceptionTime,trunk_sway_large,P016,Trial,15,15,1,69,5,P016
+InceptionTime,trunk_sway_large,P018,Trial,16,49,0,68,3,P018
+InceptionTime,trunk_sway_large,P019,Trial,17,59,0,68,1,P019
+InceptionTime,trunk_sway_large,P020,Trial,18,18,1,68,2,P020
+InceptionTime,trunk_sway_large,P021,Trial,19,19,1,67,5,P021
+InceptionTime,trunk_sway_large,P022,Trial,20,20,1,68,2,P022
+InceptionTime,trunk_sway_large,P023,Trial,21,21,1,69,5,P023
+InceptionTime,trunk_sway_large,P024,Trial,22,22,1,68,4,P024
+InceptionTime,trunk_sway_large,P025,Trial,23,23,1,68,5,P025
+InceptionTime,trunk_sway_large,P026,Trial,24,24,1,69,4,P026
+InceptionTime,trunk_sway_large,P028,Trial,25,25,1,69,3,P028
+InceptionTime,trunk_sway_large,P029,Trial,26,26,1,68,2,P029
+InceptionTime,trunk_sway_large,P030,Trial,27,27,1,68,3,P030
+InceptionTime,trunk_sway_large,P031,Trial,28,28,1,69,3,P031
+InceptionTime,trunk_sway_large,P032,Trial,29,29,1,69,5,P032
+InceptionTime,trunk_sway_large,P033,Trial,30,30,1,69,4,P033
+InceptionTime,trunk_sway_large,P034,Trial,31,31,1,69,3,P034
+InceptionTime,trunk_sway_large,P035,Trial,32,32,1,69,1,P035
+InceptionTime,trunk_sway_large,P038,Trial,33,47,0,69,3,P038
+InceptionTime,trunk_sway_large,P039,Trial,34,25,0,68,1,P039
+InceptionTime,trunk_sway_large,P040,Trial,35,35,1,68,1,P040
+InceptionTime,trunk_sway_large,P041,Trial,36,36,1,68,4,P041
+InceptionTime,trunk_sway_large,P042,Trial,37,37,1,69,3,P042
+InceptionTime,trunk_sway_large,P043,Trial,38,38,1,69,4,P043
+InceptionTime,trunk_sway_large,P044,Trial,39,39,1,68,5,P044
+InceptionTime,trunk_sway_large,P045,Trial,40,40,1,69,4,P045
+InceptionTime,trunk_sway_large,P046,Trial,41,41,1,69,1,P046
+InceptionTime,trunk_sway_large,P049,Trial,42,42,1,68,2,P049
+InceptionTime,trunk_sway_large,P050,Trial,43,25,0,68,5,P050
+InceptionTime,trunk_sway_large,P051,Trial,44,47,0,68,3,P051
+InceptionTime,trunk_sway_large,P052,Trial,45,45,1,69,2,P052
+InceptionTime,trunk_sway_large,P053,Trial,46,46,1,68,4,P053
+InceptionTime,trunk_sway_large,P055,Trial,48,48,1,69,2,P055
+InceptionTime,trunk_sway_large,P057,Trial,50,50,1,68,1,P057
+InceptionTime,trunk_sway_large,P058,Trial,51,28,0,69,5,P058
+InceptionTime,trunk_sway_large,P060,Trial,52,52,1,68,5,P060
+InceptionTime,trunk_sway_large,P061,Trial,53,53,1,69,2,P061
+InceptionTime,trunk_sway_large,P062,Trial,54,47,0,69,2,P062
+InceptionTime,trunk_sway_large,P064,Trial,55,55,1,69,4,P064
+InceptionTime,trunk_sway_large,P065,Trial,56,56,1,69,1,P065
+InceptionTime,trunk_sway_large,P066,Trial,57,49,0,69,4,P066
+InceptionTime,trunk_sway_large,P067,Trial,58,58,1,68,3,P067
+InceptionTime,trunk_sway_large,P068,Trial,59,59,1,69,3,P068
+InceptionTime,trunk_sway_large,P069,Trial,60,47,0,70,1,P069
+InceptionTime,trunk_sway_large,P070,Trial,61,59,0,69,5,P070
+Multi-Model LSTM,trunk_sway_large,P001,Trial,0,0,1,58,1,P001
+Multi-Model LSTM,trunk_sway_large,P003,Trial,2,2,1,58,4,P003
+Multi-Model LSTM,trunk_sway_large,P004,Trial,3,20,0,58,4,P004
+Multi-Model LSTM,trunk_sway_large,P005,Trial,4,4,1,59,2,P005
+Multi-Model LSTM,trunk_sway_large,P006,Trial,5,30,0,58,2,P006
+Multi-Model LSTM,trunk_sway_large,P007,Trial,6,47,0,58,1,P007
+Multi-Model LSTM,trunk_sway_large,P008,Trial,7,7,1,58,2,P008
+Multi-Model LSTM,trunk_sway_large,P009,Trial,8,5,0,57,5,P009
+Multi-Model LSTM,trunk_sway_large,P010,Trial,9,7,0,59,2,P010
+Multi-Model LSTM,trunk_sway_large,P011,Trial,10,10,1,57,3,P011
+Multi-Model LSTM,trunk_sway_large,P012,Trial,11,29,0,59,5,P012
+Multi-Model LSTM,trunk_sway_large,P013,Trial,12,5,0,59,3,P013
+Multi-Model LSTM,trunk_sway_large,P014,Trial,13,0,0,57,1,P014
+Multi-Model LSTM,trunk_sway_large,P015,Trial,14,59,0,67,1,P015
+Multi-Model LSTM,trunk_sway_large,P016,Trial,15,15,1,69,5,P016
+Multi-Model LSTM,trunk_sway_large,P018,Trial,16,29,0,68,3,P018
+Multi-Model LSTM,trunk_sway_large,P019,Trial,17,12,0,68,1,P019
+Multi-Model LSTM,trunk_sway_large,P020,Trial,18,18,1,68,2,P020
+Multi-Model LSTM,trunk_sway_large,P021,Trial,19,53,0,67,5,P021
+Multi-Model LSTM,trunk_sway_large,P022,Trial,20,28,0,68,2,P022
+Multi-Model LSTM,trunk_sway_large,P023,Trial,21,45,0,69,5,P023
+Multi-Model LSTM,trunk_sway_large,P024,Trial,22,44,0,68,4,P024
+Multi-Model LSTM,trunk_sway_large,P025,Trial,23,52,0,68,5,P025
+Multi-Model LSTM,trunk_sway_large,P026,Trial,24,24,1,69,4,P026
+Multi-Model LSTM,trunk_sway_large,P028,Trial,25,32,0,69,3,P028
+Multi-Model LSTM,trunk_sway_large,P029,Trial,26,26,1,68,2,P029
+Multi-Model LSTM,trunk_sway_large,P030,Trial,27,27,1,68,3,P030
+Multi-Model LSTM,trunk_sway_large,P031,Trial,28,37,0,69,3,P031
+Multi-Model LSTM,trunk_sway_large,P032,Trial,29,60,0,69,5,P032
+Multi-Model LSTM,trunk_sway_large,P033,Trial,30,20,0,69,4,P033
+Multi-Model LSTM,trunk_sway_large,P034,Trial,31,31,1,69,3,P034
+Multi-Model LSTM,trunk_sway_large,P035,Trial,32,32,1,69,1,P035
+Multi-Model LSTM,trunk_sway_large,P038,Trial,33,47,0,69,3,P038
+Multi-Model LSTM,trunk_sway_large,P039,Trial,34,6,0,68,1,P039
+Multi-Model LSTM,trunk_sway_large,P040,Trial,35,14,0,68,1,P040
+Multi-Model LSTM,trunk_sway_large,P041,Trial,36,36,1,68,4,P041
+Multi-Model LSTM,trunk_sway_large,P042,Trial,37,28,0,69,3,P042
+Multi-Model LSTM,trunk_sway_large,P043,Trial,38,38,1,69,4,P043
+Multi-Model LSTM,trunk_sway_large,P044,Trial,39,28,0,68,5,P044
+Multi-Model LSTM,trunk_sway_large,P045,Trial,40,58,0,69,4,P045
+Multi-Model LSTM,trunk_sway_large,P046,Trial,41,41,1,69,1,P046
+Multi-Model LSTM,trunk_sway_large,P049,Trial,42,58,0,68,2,P049
+Multi-Model LSTM,trunk_sway_large,P050,Trial,43,31,0,68,5,P050
+Multi-Model LSTM,trunk_sway_large,P051,Trial,44,47,0,68,3,P051
+Multi-Model LSTM,trunk_sway_large,P052,Trial,45,20,0,69,2,P052
+Multi-Model LSTM,trunk_sway_large,P053,Trial,46,29,0,68,4,P053
+Multi-Model LSTM,trunk_sway_large,P055,Trial,48,38,0,69,2,P055
+Multi-Model LSTM,trunk_sway_large,P057,Trial,50,50,1,68,1,P057
+Multi-Model LSTM,trunk_sway_large,P058,Trial,51,52,0,69,5,P058
+Multi-Model LSTM,trunk_sway_large,P060,Trial,52,32,0,68,5,P060
+Multi-Model LSTM,trunk_sway_large,P061,Trial,53,53,1,69,2,P061
+Multi-Model LSTM,trunk_sway_large,P062,Trial,54,10,0,69,2,P062
+Multi-Model LSTM,trunk_sway_large,P064,Trial,55,55,1,69,4,P064
+Multi-Model LSTM,trunk_sway_large,P065,Trial,56,38,0,69,1,P065
+Multi-Model LSTM,trunk_sway_large,P066,Trial,57,57,1,69,4,P066
+Multi-Model LSTM,trunk_sway_large,P067,Trial,58,58,1,68,3,P067
+Multi-Model LSTM,trunk_sway_large,P068,Trial,59,29,0,69,3,P068
+Multi-Model LSTM,trunk_sway_large,P069,Trial,60,31,0,70,1,P069
+Multi-Model LSTM,trunk_sway_large,P070,Trial,61,31,0,69,5,P070
+Multi-Model LSTM,trunk_sway_small,P001,Trial,0,0,1,58,1,P001
+Multi-Model LSTM,trunk_sway_small,P003,Trial,2,2,1,59,4,P003
+Multi-Model LSTM,trunk_sway_small,P004,Trial,3,20,0,59,4,P004
+Multi-Model LSTM,trunk_sway_small,P005,Trial,4,4,1,58,2,P005
+Multi-Model LSTM,trunk_sway_small,P006,Trial,5,11,0,57,2,P006
+Multi-Model LSTM,trunk_sway_small,P007,Trial,6,6,1,58,1,P007
+Multi-Model LSTM,trunk_sway_small,P008,Trial,7,7,1,58,2,P008
+Multi-Model LSTM,trunk_sway_small,P009,Trial,8,5,0,57,5,P009
+Multi-Model LSTM,trunk_sway_small,P010,Trial,9,43,0,58,2,P010
+Multi-Model LSTM,trunk_sway_small,P011,Trial,10,10,1,57,3,P011
+Multi-Model LSTM,trunk_sway_small,P012,Trial,11,11,1,59,5,P012
+Multi-Model LSTM,trunk_sway_small,P013,Trial,12,12,1,59,3,P013
+Multi-Model LSTM,trunk_sway_small,P014,Trial,13,13,1,58,1,P014
+Multi-Model LSTM,trunk_sway_small,P015,Trial,14,0,0,68,1,P015
+Multi-Model LSTM,trunk_sway_small,P016,Trial,15,15,1,68,5,P016
+Multi-Model LSTM,trunk_sway_small,P018,Trial,16,16,1,68,3,P018
+Multi-Model LSTM,trunk_sway_small,P019,Trial,17,5,0,68,1,P019
+Multi-Model LSTM,trunk_sway_small,P020,Trial,18,18,1,68,2,P020
+Multi-Model LSTM,trunk_sway_small,P021,Trial,19,53,0,68,5,P021
+Multi-Model LSTM,trunk_sway_small,P022,Trial,20,28,0,68,2,P022
+Multi-Model LSTM,trunk_sway_small,P023,Trial,21,52,0,68,5,P023
+Multi-Model LSTM,trunk_sway_small,P024,Trial,22,44,0,69,4,P024
+Multi-Model LSTM,trunk_sway_small,P025,Trial,23,23,1,68,5,P025
+Multi-Model LSTM,trunk_sway_small,P026,Trial,24,41,0,68,4,P026
+Multi-Model LSTM,trunk_sway_small,P028,Trial,25,32,0,69,3,P028
+Multi-Model LSTM,trunk_sway_small,P029,Trial,26,26,1,68,2,P029
+Multi-Model LSTM,trunk_sway_small,P030,Trial,27,27,1,68,3,P030
+Multi-Model LSTM,trunk_sway_small,P031,Trial,28,28,1,69,3,P031
+Multi-Model LSTM,trunk_sway_small,P032,Trial,29,47,0,71,5,P032
+Multi-Model LSTM,trunk_sway_small,P033,Trial,30,47,0,67,4,P033
+Multi-Model LSTM,trunk_sway_small,P034,Trial,31,31,1,68,3,P034
+Multi-Model LSTM,trunk_sway_small,P035,Trial,32,32,1,69,1,P035
+Multi-Model LSTM,trunk_sway_small,P038,Trial,33,39,0,68,3,P038
+Multi-Model LSTM,trunk_sway_small,P039,Trial,34,25,0,69,1,P039
+Multi-Model LSTM,trunk_sway_small,P040,Trial,35,15,0,68,1,P040
+Multi-Model LSTM,trunk_sway_small,P041,Trial,36,36,1,68,4,P041
+Multi-Model LSTM,trunk_sway_small,P042,Trial,37,45,0,68,3,P042
+Multi-Model LSTM,trunk_sway_small,P043,Trial,38,38,1,69,4,P043
+Multi-Model LSTM,trunk_sway_small,P044,Trial,39,28,0,68,5,P044
+Multi-Model LSTM,trunk_sway_small,P045,Trial,40,58,0,69,4,P045
+Multi-Model LSTM,trunk_sway_small,P046,Trial,41,41,1,68,1,P046
+Multi-Model LSTM,trunk_sway_small,P049,Trial,42,58,0,68,2,P049
+Multi-Model LSTM,trunk_sway_small,P050,Trial,43,31,0,67,5,P050
+Multi-Model LSTM,trunk_sway_small,P051,Trial,44,57,0,68,3,P051
+Multi-Model LSTM,trunk_sway_small,P052,Trial,45,24,0,69,2,P052
+Multi-Model LSTM,trunk_sway_small,P053,Trial,46,31,0,68,4,P053
+Multi-Model LSTM,trunk_sway_small,P054,Trial,47,47,1,68,1,P054
+Multi-Model LSTM,trunk_sway_small,P055,Trial,48,38,0,67,2,P055
+Multi-Model LSTM,trunk_sway_small,P056,Trial,49,49,1,68,4,P056
+Multi-Model LSTM,trunk_sway_small,P057,Trial,50,50,1,69,1,P057
+Multi-Model LSTM,trunk_sway_small,P058,Trial,51,58,0,68,5,P058
+Multi-Model LSTM,trunk_sway_small,P060,Trial,52,52,1,67,5,P060
+Multi-Model LSTM,trunk_sway_small,P061,Trial,53,53,1,70,2,P061
+Multi-Model LSTM,trunk_sway_small,P062,Trial,54,40,0,68,2,P062
+Multi-Model LSTM,trunk_sway_small,P064,Trial,55,55,1,69,4,P064
+Multi-Model LSTM,trunk_sway_small,P065,Trial,56,56,1,69,1,P065
+Multi-Model LSTM,trunk_sway_small,P066,Trial,57,46,0,68,4,P066
+Multi-Model LSTM,trunk_sway_small,P067,Trial,58,58,1,69,3,P067
+Multi-Model LSTM,trunk_sway_small,P068,Trial,59,59,1,69,3,P068
+Multi-Model LSTM,trunk_sway_small,P069,Trial,60,60,1,70,1,P069
+Multi-Model LSTM,trunk_sway_small,P070,Trial,61,61,1,69,5,P070

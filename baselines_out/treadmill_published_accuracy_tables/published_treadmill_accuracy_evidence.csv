@@ -1,0 +1,55 @@
+model,condition,window_accuracy,trial_accuracy,n_windows,n_trials,provenance
+MiniRocket,dual_task,0.9781903919834954,1.0,3393,58,published default pipeline
+MiniRocket,fpa_large,0.9319461444308446,0.967741935483871,4085,62,published default pipeline
+MiniRocket,fpa_small,0.9600606673407482,0.9833333333333332,3956,60,published default pipeline
+MiniRocket,step_width_large,0.9463611181062704,1.0,3971,60,published default pipeline
+MiniRocket,step_width_small,0.9743270189431704,1.0,4012,61,published default pipeline
+MiniRocket,trunk_sway_large,0.7179421551062196,0.847457627118644,3907,59,published default pipeline
+MiniRocket,trunk_sway_small,0.8307730426164519,0.9016393442622952,4036,61,published default pipeline
+MiniRocket,walk_speed_large,0.9714964370546318,0.9824561403508772,3789,57,published default pipeline
+MiniRocket,walk_speed_small,0.9549847405900304,0.9833333333333332,3932,60,published default pipeline
+MultiRocket,dual_task,0.9761273209549072,1.0,3393,58,published default pipeline
+MultiRocket,fpa_large,0.9287637698898408,0.9838709677419356,4085,62,published default pipeline
+MultiRocket,fpa_small,0.9522244691607684,0.9833333333333332,3956,60,published default pipeline
+MultiRocket,step_width_large,0.94585746663309,0.9833333333333332,3971,60,published default pipeline
+MultiRocket,step_width_small,0.9753240279162512,1.0,4012,61,published default pipeline
+MultiRocket,trunk_sway_large,0.7307396979779882,0.8305084745762712,3907,59,published default pipeline
+MultiRocket,trunk_sway_small,0.8486124876114965,0.9016393442622952,4036,61,published default pipeline
+MultiRocket,walk_speed_large,0.9725521245711268,0.9824561403508772,3789,57,published default pipeline
+MultiRocket,walk_speed_small,0.9593082400813836,0.9833333333333332,3932,60,published default pipeline
+FCN-BiLSTM,fpa_large,0.9608323133414932,1.0,4085,62,authors' released FCN-BiLSTM architecture
+FCN-BiLSTM,fpa_small,0.967391304347826,1.0,3956,60,authors' released FCN-BiLSTM architecture
+FCN-BiLSTM,step_width_large,0.9642407454041804,1.0,3971,60,authors' released FCN-BiLSTM architecture
+FCN-BiLSTM,step_width_small,0.9830508474576272,1.0,4012,61,authors' released FCN-BiLSTM architecture
+FCN-BiLSTM,trunk_sway_large,0.7151266956744305,0.7796610169491526,3907,59,authors' released FCN-BiLSTM architecture
+FCN-BiLSTM,trunk_sway_small,0.8659563924677899,0.9344262295081968,4036,61,authors' released FCN-BiLSTM architecture
+FCN-BiLSTM,walk_speed_large,0.9910266561097916,1.0,3789,57,authors' released FCN-BiLSTM architecture
+FCN-BiLSTM,walk_speed_small,0.987029501525941,1.0,3932,60,authors' released FCN-BiLSTM architecture
+FCN-BiLSTM,dual_task,0.9890951959917476,1.0,3393,58,authors' released FCN-BiLSTM architecture
+Multi-Model LSTM,fpa_large,0.4768665850673194,0.6451612903225806,4085,62,Tran et al. released Multi-Model LSTM
+Multi-Model LSTM,fpa_small,0.5535894843276037,0.75,3956,60,Tran et al. released Multi-Model LSTM
+Multi-Model LSTM,step_width_large,0.4678922185847393,0.6333333333333333,3971,60,Tran et al. released Multi-Model LSTM
+Multi-Model LSTM,step_width_small,0.6617647058823529,0.8852459016393442,4012,61,Tran et al. released Multi-Model LSTM
+Multi-Model LSTM,trunk_sway_large,0.2260046071154338,0.3389830508474576,3907,59,Tran et al. released Multi-Model LSTM
+Multi-Model LSTM,trunk_sway_small,0.3451437066402378,0.5245901639344263,4036,61,Tran et al. released Multi-Model LSTM
+Multi-Model LSTM,walk_speed_large,0.6444972288202692,0.8421052631578947,3789,57,Tran et al. released Multi-Model LSTM
+Multi-Model LSTM,walk_speed_small,0.5701932858596134,0.8166666666666667,3932,60,Tran et al. released Multi-Model LSTM
+Multi-Model LSTM,dual_task,0.695254936634247,0.896551724137931,3393,58,Tran et al. released Multi-Model LSTM
+InceptionTime,dual_task,0.9764220453875626,1.0,3393,58,authors' five-member architecture ensemble
+InceptionTime,fpa_large,0.9135862913096696,0.9838709677419356,4085,62,authors' five-member architecture ensemble
+InceptionTime,fpa_small,0.9464105156723964,0.9833333333333332,3956,60,authors' five-member architecture ensemble
+InceptionTime,step_width_large,0.945101989423319,0.9833333333333332,3971,60,authors' five-member architecture ensemble
+InceptionTime,step_width_small,0.9825523429710868,1.0,4012,61,authors' five-member architecture ensemble
+InceptionTime,trunk_sway_large,0.6644484259022267,0.8135593220338984,3907,59,authors' five-member architecture ensemble
+InceptionTime,trunk_sway_small,0.813181367690783,0.8688524590163934,4036,61,authors' five-member architecture ensemble
+InceptionTime,walk_speed_large,0.98812351543943,1.0,3789,57,authors' five-member architecture ensemble
+InceptionTime,walk_speed_small,0.9766022380467956,1.0,3932,60,authors' five-member architecture ensemble
+PRISM-Gait,dual_task,0.9917477158856468,1.0,3393,58,this study
+PRISM-Gait,fpa_large,0.977233782129743,1.0,4085,62,this study
+PRISM-Gait,fpa_small,0.9762386248736096,0.9833333333333332,3956,60,this study
+PRISM-Gait,step_width_large,0.9803575925459582,1.0,3971,60,this study
+PRISM-Gait,step_width_small,0.9905284147557328,1.0,4012,61,this study
+PRISM-Gait,trunk_sway_large,0.8753519324289737,0.9491525423728814,3907,59,this study
+PRISM-Gait,trunk_sway_small,0.930376610505451,0.9672131147540984,4036,61,this study
+PRISM-Gait,walk_speed_large,0.9910266561097916,1.0,3789,57,this study
+PRISM-Gait,walk_speed_small,0.987792472024415,1.0,3932,60,this study

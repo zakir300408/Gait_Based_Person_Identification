@@ -1,0 +1,13 @@
+condition,model,participants,correct_trials,trials,trial_accuracy_pct
+trunk_sway_large,FCN-BiLSTM,59,46,59,77.96610169491525
+trunk_sway_large,InceptionTime,59,48,59,81.35593220338983
+trunk_sway_large,MiniRocket,59,50,59,84.7457627118644
+trunk_sway_large,Multi-Model LSTM,59,20,59,33.898305084745765
+trunk_sway_large,MultiRocket,59,49,59,83.05084745762711
+trunk_sway_large,PRISM-Gait,59,56,59,94.91525423728814
+trunk_sway_small,FCN-BiLSTM,61,57,61,93.44262295081967
+trunk_sway_small,InceptionTime,61,53,61,86.88524590163935
+trunk_sway_small,MiniRocket,61,55,61,90.1639344262295
+trunk_sway_small,Multi-Model LSTM,61,32,61,52.459016393442624
+trunk_sway_small,MultiRocket,61,55,61,90.1639344262295
+trunk_sway_small,PRISM-Gait,61,59,61,96.72131147540983

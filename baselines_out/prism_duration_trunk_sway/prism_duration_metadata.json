@@ -1,0 +1,65 @@
+{
+  "selected_architecture": {
+    "selected_variant": "PRISM-Gait",
+    "feature_dimensions": {
+      "PRISM-Gait": 13049,
+      "PRISM-24": 10745,
+      "PRISM-12": 9593,
+      "Core+PHCF": 8441
+    },
+    "noninferiority_margin_pct": 1.0,
+    "primary_scopes": [
+      "trunk_sway_large",
+      "overall_participant_mean"
+    ]
+  },
+  "durations_seconds": [
+    1.0,
+    2.0,
+    3.0,
+    4.0,
+    5.0
+  ],
+  "feature_dimensions": {
+    "1.0": {
+      "core": 7812,
+      "cdkc": 4608,
+      "hcgf": 581,
+      "total": 13001
+    },
+    "2.0": {
+      "core": 7812,
+      "cdkc": 4608,
+      "hcgf": 629,
+      "total": 13049
+    },
+    "3.0": {
+      "core": 7812,
+      "cdkc": 4608,
+      "hcgf": 671,
+      "total": 13091
+    },
+    "4.0": {
+      "core": 7812,
+      "cdkc": 4608,
+      "hcgf": 719,
+      "total": 13139
+    },
+    "5.0": {
+      "core": 7812,
+      "cdkc": 4608,
+      "hcgf": 761,
+      "total": 13181
+    }
+  },
+  "latency_definition": "normalized window to identity prediction",
+  "first_id_definition": "window acquisition duration plus median single-window compute latency",
+  "overlap": "50% window overlap",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "processor": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+  "logical_cpus": 32,
+  "python": "3.12.9",
+  "numpy": "1.26.4",
+  "scikit_learn": "1.7.1",
+  "sktime": "0.39.0"
+}

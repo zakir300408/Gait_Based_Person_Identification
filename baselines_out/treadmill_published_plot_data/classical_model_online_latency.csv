@@ -1,0 +1,4 @@
+model,online_median_ms,online_q1_ms,online_q3_ms,online_p95_ms,repetitions,batch_size,definition,device
+PRISM-Gait,14.49020000291057,14.144374996249098,14.949399992474355,16.65187500329921,50,1,"model-specific preprocessing plus inference for one accepted 2-s window; common acquisition, segmentation, and quality gating excluded",Intel Core i9-14900K CPU
+MultiRocket,8067.061699999613,7998.487874992861,8245.99259999377,8608.647189994372,50,1,"model-specific preprocessing plus inference for one accepted 2-s window; common acquisition, segmentation, and quality gating excluded",Intel Core i9-14900K CPU
+MiniRocket,539.3429499963531,532.7483999935794,547.7015749929706,563.60460000069,50,1,"model-specific preprocessing plus inference for one accepted 2-s window; common acquisition, segmentation, and quality gating excluded",Intel Core i9-14900K CPU

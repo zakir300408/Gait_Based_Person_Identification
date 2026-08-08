@@ -1,0 +1,15 @@
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.log
+*.pid
+*.pt
+*.pth
+*.keras
+*.hdf5
+*.npy
+*.npz
+final figures/
+release/dist/
+release/compare/
+public_datasets/

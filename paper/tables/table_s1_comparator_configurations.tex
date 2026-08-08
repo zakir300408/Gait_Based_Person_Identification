@@ -1,0 +1,24 @@
+\begin{table*}[t]
+\caption{Matched treadmill comparator configurations. Native capacity is reported in the model's meaningful unit; fixed feature dimensions and neural-network parameters are not directly equivalent.}
+\label{tab:comparator_configurations}
+\centering
+\small
+\setlength{\tabcolsep}{3.5pt}
+\renewcommand{\arraystretch}{1.16}
+\begin{adjustbox}{max width=\textwidth}
+\begin{tabular}{lllllll}
+\toprule
+Model & Family & Input & Native capacity & Enrollment/training & Head & Implementation \\
+\midrule
+PRISM-Gait (Ours) & Fused fixed signature & 200 x 6 & 13,049 features & Enrollment-only feature transform; RidgeClassifierCV & Cosine-normalized linear scores & This work \\
+MiniROCKET & Random convolution & 200 x 6 & 9,996 features & Enrollment-fitted transform and ridge classifier & Linear ridge scores & Matched local run \\
+MultiROCKET & Random convolution & 200 x 6 & 79,968 features & Enrollment-fitted transform and ridge classifier & Linear ridge scores & Matched local run \\
+FCN-BiLSTM & CNN-RNN hybrid & 128 x 6 & 2.83 M stored model variables & 90/10 enrollment split; early stopping, max 200 epochs & Softmax & Released architecture; matched reconstruction \\
+InceptionTime & Inception CNN ensemble & 200 x 6 & 5 x 500,670 parameters & 85/15 enrollment split; five 60-epoch members & Mean ensemble probability & Author architecture; matched reconstruction \\
+Multi-Model LSTM & Six-branch LSTM & 80 samples; released grouping & 138,782 parameters & 90/10 enrollment split; early stopping, max 200 epochs & Log-softmax & Released architecture; matched reconstruction \\
+\bottomrule
+\end{tabular}
+\end{adjustbox}
+\vspace{2pt}
+\parbox{0.98\textwidth}{\footnotesize Every method used the same accepted enrollment and held-out treadmill units. FCN-BiLSTM used linear temporal resampling from 200 to 128 samples; Multi-Model LSTM used the released 80-sample adapter. The InceptionTime capacity is shown per member and for five members.}
+\end{table*}

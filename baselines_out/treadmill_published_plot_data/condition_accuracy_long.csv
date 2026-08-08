@@ -1,0 +1,109 @@
+model,method_role,method_order,condition_code,condition_label,condition_order,condition_family,perturbation_level,is_trunk_sway,accuracy_level,accuracy_level_order,accuracy_fraction,accuracy_percent,n_observations,observation_unit,provenance
+MiniRocket,Published comparator,1,fpa_small,FPA small,1,Foot progression angle,Small,False,Window,1,0.9600606673407482,96.00606673407482,3956,2-s windows,published default pipeline
+MiniRocket,Published comparator,1,fpa_large,FPA large,2,Foot progression angle,Large,False,Window,1,0.9319461444308446,93.19461444308446,4085,2-s windows,published default pipeline
+MiniRocket,Published comparator,1,step_width_small,Step width small,3,Step width,Small,False,Window,1,0.9743270189431704,97.43270189431705,4012,2-s windows,published default pipeline
+MiniRocket,Published comparator,1,step_width_large,Step width large,4,Step width,Large,False,Window,1,0.9463611181062704,94.63611181062704,3971,2-s windows,published default pipeline
+MiniRocket,Published comparator,1,walk_speed_small,Speed small,5,Walking speed,Small,False,Window,1,0.9549847405900304,95.49847405900303,3932,2-s windows,published default pipeline
+MiniRocket,Published comparator,1,walk_speed_large,Speed large,6,Walking speed,Large,False,Window,1,0.9714964370546318,97.14964370546319,3789,2-s windows,published default pipeline
+MiniRocket,Published comparator,1,dual_task,Dual task,7,Dual task,Single level,False,Window,1,0.9781903919834954,97.81903919834954,3393,2-s windows,published default pipeline
+MiniRocket,Published comparator,1,trunk_sway_small,Trunk sway small,8,Trunk sway,Small,True,Window,1,0.8307730426164519,83.0773042616452,4036,2-s windows,published default pipeline
+MiniRocket,Published comparator,1,trunk_sway_large,Trunk sway large,9,Trunk sway,Large,True,Window,1,0.7179421551062196,71.79421551062197,3907,2-s windows,published default pipeline
+MultiRocket,Published comparator,2,fpa_small,FPA small,1,Foot progression angle,Small,False,Window,1,0.9522244691607684,95.22244691607685,3956,2-s windows,published default pipeline
+MultiRocket,Published comparator,2,fpa_large,FPA large,2,Foot progression angle,Large,False,Window,1,0.9287637698898408,92.87637698898408,4085,2-s windows,published default pipeline
+MultiRocket,Published comparator,2,step_width_small,Step width small,3,Step width,Small,False,Window,1,0.9753240279162512,97.53240279162512,4012,2-s windows,published default pipeline
+MultiRocket,Published comparator,2,step_width_large,Step width large,4,Step width,Large,False,Window,1,0.94585746663309,94.585746663309,3971,2-s windows,published default pipeline
+MultiRocket,Published comparator,2,walk_speed_small,Speed small,5,Walking speed,Small,False,Window,1,0.9593082400813836,95.93082400813836,3932,2-s windows,published default pipeline
+MultiRocket,Published comparator,2,walk_speed_large,Speed large,6,Walking speed,Large,False,Window,1,0.9725521245711268,97.25521245711268,3789,2-s windows,published default pipeline
+MultiRocket,Published comparator,2,dual_task,Dual task,7,Dual task,Single level,False,Window,1,0.9761273209549072,97.61273209549071,3393,2-s windows,published default pipeline
+MultiRocket,Published comparator,2,trunk_sway_small,Trunk sway small,8,Trunk sway,Small,True,Window,1,0.8486124876114965,84.86124876114965,4036,2-s windows,published default pipeline
+MultiRocket,Published comparator,2,trunk_sway_large,Trunk sway large,9,Trunk sway,Large,True,Window,1,0.7307396979779882,73.07396979779882,3907,2-s windows,published default pipeline
+FCN-BiLSTM,Published comparator,3,fpa_small,FPA small,1,Foot progression angle,Small,False,Window,1,0.967391304347826,96.73913043478261,3956,2-s windows,authors' released FCN-BiLSTM architecture
+FCN-BiLSTM,Published comparator,3,fpa_large,FPA large,2,Foot progression angle,Large,False,Window,1,0.9608323133414932,96.08323133414932,4085,2-s windows,authors' released FCN-BiLSTM architecture
+FCN-BiLSTM,Published comparator,3,step_width_small,Step width small,3,Step width,Small,False,Window,1,0.9830508474576272,98.30508474576271,4012,2-s windows,authors' released FCN-BiLSTM architecture
+FCN-BiLSTM,Published comparator,3,step_width_large,Step width large,4,Step width,Large,False,Window,1,0.9642407454041804,96.42407454041803,3971,2-s windows,authors' released FCN-BiLSTM architecture
+FCN-BiLSTM,Published comparator,3,walk_speed_small,Speed small,5,Walking speed,Small,False,Window,1,0.987029501525941,98.7029501525941,3932,2-s windows,authors' released FCN-BiLSTM architecture
+FCN-BiLSTM,Published comparator,3,walk_speed_large,Speed large,6,Walking speed,Large,False,Window,1,0.9910266561097916,99.10266561097916,3789,2-s windows,authors' released FCN-BiLSTM architecture
+FCN-BiLSTM,Published comparator,3,dual_task,Dual task,7,Dual task,Single level,False,Window,1,0.9890951959917476,98.90951959917476,3393,2-s windows,authors' released FCN-BiLSTM architecture
+FCN-BiLSTM,Published comparator,3,trunk_sway_small,Trunk sway small,8,Trunk sway,Small,True,Window,1,0.8659563924677899,86.59563924677899,4036,2-s windows,authors' released FCN-BiLSTM architecture
+FCN-BiLSTM,Published comparator,3,trunk_sway_large,Trunk sway large,9,Trunk sway,Large,True,Window,1,0.7151266956744305,71.51266956744306,3907,2-s windows,authors' released FCN-BiLSTM architecture
+Multi-Model LSTM,Published comparator,4,fpa_small,FPA small,1,Foot progression angle,Small,False,Window,1,0.5535894843276037,55.35894843276037,3956,2-s windows,Tran et al. released Multi-Model LSTM
+Multi-Model LSTM,Published comparator,4,fpa_large,FPA large,2,Foot progression angle,Large,False,Window,1,0.4768665850673194,47.68665850673194,4085,2-s windows,Tran et al. released Multi-Model LSTM
+Multi-Model LSTM,Published comparator,4,step_width_small,Step width small,3,Step width,Small,False,Window,1,0.6617647058823529,66.17647058823529,4012,2-s windows,Tran et al. released Multi-Model LSTM
+Multi-Model LSTM,Published comparator,4,step_width_large,Step width large,4,Step width,Large,False,Window,1,0.4678922185847393,46.78922185847393,3971,2-s windows,Tran et al. released Multi-Model LSTM
+Multi-Model LSTM,Published comparator,4,walk_speed_small,Speed small,5,Walking speed,Small,False,Window,1,0.5701932858596134,57.01932858596134,3932,2-s windows,Tran et al. released Multi-Model LSTM
+Multi-Model LSTM,Published comparator,4,walk_speed_large,Speed large,6,Walking speed,Large,False,Window,1,0.6444972288202692,64.44972288202692,3789,2-s windows,Tran et al. released Multi-Model LSTM
+Multi-Model LSTM,Published comparator,4,dual_task,Dual task,7,Dual task,Single level,False,Window,1,0.695254936634247,69.5254936634247,3393,2-s windows,Tran et al. released Multi-Model LSTM
+Multi-Model LSTM,Published comparator,4,trunk_sway_small,Trunk sway small,8,Trunk sway,Small,True,Window,1,0.3451437066402378,34.51437066402378,4036,2-s windows,Tran et al. released Multi-Model LSTM
+Multi-Model LSTM,Published comparator,4,trunk_sway_large,Trunk sway large,9,Trunk sway,Large,True,Window,1,0.2260046071154338,22.60046071154338,3907,2-s windows,Tran et al. released Multi-Model LSTM
+InceptionTime,Published comparator,5,fpa_small,FPA small,1,Foot progression angle,Small,False,Window,1,0.9464105156723964,94.64105156723964,3956,2-s windows,authors' five-member architecture ensemble
+InceptionTime,Published comparator,5,fpa_large,FPA large,2,Foot progression angle,Large,False,Window,1,0.9135862913096696,91.35862913096696,4085,2-s windows,authors' five-member architecture ensemble
+InceptionTime,Published comparator,5,step_width_small,Step width small,3,Step width,Small,False,Window,1,0.9825523429710868,98.25523429710869,4012,2-s windows,authors' five-member architecture ensemble
+InceptionTime,Published comparator,5,step_width_large,Step width large,4,Step width,Large,False,Window,1,0.945101989423319,94.5101989423319,3971,2-s windows,authors' five-member architecture ensemble
+InceptionTime,Published comparator,5,walk_speed_small,Speed small,5,Walking speed,Small,False,Window,1,0.9766022380467956,97.66022380467956,3932,2-s windows,authors' five-member architecture ensemble
+InceptionTime,Published comparator,5,walk_speed_large,Speed large,6,Walking speed,Large,False,Window,1,0.98812351543943,98.812351543943,3789,2-s windows,authors' five-member architecture ensemble
+InceptionTime,Published comparator,5,dual_task,Dual task,7,Dual task,Single level,False,Window,1,0.9764220453875626,97.64220453875626,3393,2-s windows,authors' five-member architecture ensemble
+InceptionTime,Published comparator,5,trunk_sway_small,Trunk sway small,8,Trunk sway,Small,True,Window,1,0.813181367690783,81.3181367690783,4036,2-s windows,authors' five-member architecture ensemble
+InceptionTime,Published comparator,5,trunk_sway_large,Trunk sway large,9,Trunk sway,Large,True,Window,1,0.6644484259022267,66.44484259022268,3907,2-s windows,authors' five-member architecture ensemble
+PRISM-Gait,This study,6,fpa_small,FPA small,1,Foot progression angle,Small,False,Window,1,0.9762386248736096,97.62386248736095,3956,2-s windows,this study
+PRISM-Gait,This study,6,fpa_large,FPA large,2,Foot progression angle,Large,False,Window,1,0.977233782129743,97.7233782129743,4085,2-s windows,this study
+PRISM-Gait,This study,6,step_width_small,Step width small,3,Step width,Small,False,Window,1,0.9905284147557328,99.05284147557329,4012,2-s windows,this study
+PRISM-Gait,This study,6,step_width_large,Step width large,4,Step width,Large,False,Window,1,0.9803575925459582,98.03575925459582,3971,2-s windows,this study
+PRISM-Gait,This study,6,walk_speed_small,Speed small,5,Walking speed,Small,False,Window,1,0.987792472024415,98.7792472024415,3932,2-s windows,this study
+PRISM-Gait,This study,6,walk_speed_large,Speed large,6,Walking speed,Large,False,Window,1,0.9910266561097916,99.10266561097916,3789,2-s windows,this study
+PRISM-Gait,This study,6,dual_task,Dual task,7,Dual task,Single level,False,Window,1,0.9917477158856468,99.17477158856468,3393,2-s windows,this study
+PRISM-Gait,This study,6,trunk_sway_small,Trunk sway small,8,Trunk sway,Small,True,Window,1,0.930376610505451,93.0376610505451,4036,2-s windows,this study
+PRISM-Gait,This study,6,trunk_sway_large,Trunk sway large,9,Trunk sway,Large,True,Window,1,0.8753519324289737,87.53519324289736,3907,2-s windows,this study
+MiniRocket,Published comparator,1,fpa_small,FPA small,1,Foot progression angle,Small,False,Trial,2,0.9833333333333332,98.33333333333331,60,nominal 1-min trials,published default pipeline
+MiniRocket,Published comparator,1,fpa_large,FPA large,2,Foot progression angle,Large,False,Trial,2,0.967741935483871,96.7741935483871,62,nominal 1-min trials,published default pipeline
+MiniRocket,Published comparator,1,step_width_small,Step width small,3,Step width,Small,False,Trial,2,1.0,100.0,61,nominal 1-min trials,published default pipeline
+MiniRocket,Published comparator,1,step_width_large,Step width large,4,Step width,Large,False,Trial,2,1.0,100.0,60,nominal 1-min trials,published default pipeline
+MiniRocket,Published comparator,1,walk_speed_small,Speed small,5,Walking speed,Small,False,Trial,2,0.9833333333333332,98.33333333333331,60,nominal 1-min trials,published default pipeline
+MiniRocket,Published comparator,1,walk_speed_large,Speed large,6,Walking speed,Large,False,Trial,2,0.9824561403508772,98.24561403508773,57,nominal 1-min trials,published default pipeline
+MiniRocket,Published comparator,1,dual_task,Dual task,7,Dual task,Single level,False,Trial,2,1.0,100.0,58,nominal 1-min trials,published default pipeline
+MiniRocket,Published comparator,1,trunk_sway_small,Trunk sway small,8,Trunk sway,Small,True,Trial,2,0.9016393442622952,90.16393442622952,61,nominal 1-min trials,published default pipeline
+MiniRocket,Published comparator,1,trunk_sway_large,Trunk sway large,9,Trunk sway,Large,True,Trial,2,0.847457627118644,84.7457627118644,59,nominal 1-min trials,published default pipeline
+MultiRocket,Published comparator,2,fpa_small,FPA small,1,Foot progression angle,Small,False,Trial,2,0.9833333333333332,98.33333333333331,60,nominal 1-min trials,published default pipeline
+MultiRocket,Published comparator,2,fpa_large,FPA large,2,Foot progression angle,Large,False,Trial,2,0.9838709677419356,98.38709677419357,62,nominal 1-min trials,published default pipeline
+MultiRocket,Published comparator,2,step_width_small,Step width small,3,Step width,Small,False,Trial,2,1.0,100.0,61,nominal 1-min trials,published default pipeline
+MultiRocket,Published comparator,2,step_width_large,Step width large,4,Step width,Large,False,Trial,2,0.9833333333333332,98.33333333333331,60,nominal 1-min trials,published default pipeline
+MultiRocket,Published comparator,2,walk_speed_small,Speed small,5,Walking speed,Small,False,Trial,2,0.9833333333333332,98.33333333333331,60,nominal 1-min trials,published default pipeline
+MultiRocket,Published comparator,2,walk_speed_large,Speed large,6,Walking speed,Large,False,Trial,2,0.9824561403508772,98.24561403508773,57,nominal 1-min trials,published default pipeline
+MultiRocket,Published comparator,2,dual_task,Dual task,7,Dual task,Single level,False,Trial,2,1.0,100.0,58,nominal 1-min trials,published default pipeline
+MultiRocket,Published comparator,2,trunk_sway_small,Trunk sway small,8,Trunk sway,Small,True,Trial,2,0.9016393442622952,90.16393442622952,61,nominal 1-min trials,published default pipeline
+MultiRocket,Published comparator,2,trunk_sway_large,Trunk sway large,9,Trunk sway,Large,True,Trial,2,0.8305084745762712,83.05084745762711,59,nominal 1-min trials,published default pipeline
+FCN-BiLSTM,Published comparator,3,fpa_small,FPA small,1,Foot progression angle,Small,False,Trial,2,1.0,100.0,60,nominal 1-min trials,authors' released FCN-BiLSTM architecture
+FCN-BiLSTM,Published comparator,3,fpa_large,FPA large,2,Foot progression angle,Large,False,Trial,2,1.0,100.0,62,nominal 1-min trials,authors' released FCN-BiLSTM architecture
+FCN-BiLSTM,Published comparator,3,step_width_small,Step width small,3,Step width,Small,False,Trial,2,1.0,100.0,61,nominal 1-min trials,authors' released FCN-BiLSTM architecture
+FCN-BiLSTM,Published comparator,3,step_width_large,Step width large,4,Step width,Large,False,Trial,2,1.0,100.0,60,nominal 1-min trials,authors' released FCN-BiLSTM architecture
+FCN-BiLSTM,Published comparator,3,walk_speed_small,Speed small,5,Walking speed,Small,False,Trial,2,1.0,100.0,60,nominal 1-min trials,authors' released FCN-BiLSTM architecture
+FCN-BiLSTM,Published comparator,3,walk_speed_large,Speed large,6,Walking speed,Large,False,Trial,2,1.0,100.0,57,nominal 1-min trials,authors' released FCN-BiLSTM architecture
+FCN-BiLSTM,Published comparator,3,dual_task,Dual task,7,Dual task,Single level,False,Trial,2,1.0,100.0,58,nominal 1-min trials,authors' released FCN-BiLSTM architecture
+FCN-BiLSTM,Published comparator,3,trunk_sway_small,Trunk sway small,8,Trunk sway,Small,True,Trial,2,0.9344262295081968,93.44262295081968,61,nominal 1-min trials,authors' released FCN-BiLSTM architecture
+FCN-BiLSTM,Published comparator,3,trunk_sway_large,Trunk sway large,9,Trunk sway,Large,True,Trial,2,0.7796610169491526,77.96610169491525,59,nominal 1-min trials,authors' released FCN-BiLSTM architecture
+Multi-Model LSTM,Published comparator,4,fpa_small,FPA small,1,Foot progression angle,Small,False,Trial,2,0.75,75.0,60,nominal 1-min trials,Tran et al. released Multi-Model LSTM
+Multi-Model LSTM,Published comparator,4,fpa_large,FPA large,2,Foot progression angle,Large,False,Trial,2,0.6451612903225806,64.51612903225806,62,nominal 1-min trials,Tran et al. released Multi-Model LSTM
+Multi-Model LSTM,Published comparator,4,step_width_small,Step width small,3,Step width,Small,False,Trial,2,0.8852459016393442,88.52459016393442,61,nominal 1-min trials,Tran et al. released Multi-Model LSTM
+Multi-Model LSTM,Published comparator,4,step_width_large,Step width large,4,Step width,Large,False,Trial,2,0.6333333333333333,63.33333333333333,60,nominal 1-min trials,Tran et al. released Multi-Model LSTM
+Multi-Model LSTM,Published comparator,4,walk_speed_small,Speed small,5,Walking speed,Small,False,Trial,2,0.8166666666666667,81.66666666666667,60,nominal 1-min trials,Tran et al. released Multi-Model LSTM
+Multi-Model LSTM,Published comparator,4,walk_speed_large,Speed large,6,Walking speed,Large,False,Trial,2,0.8421052631578947,84.21052631578947,57,nominal 1-min trials,Tran et al. released Multi-Model LSTM
+Multi-Model LSTM,Published comparator,4,dual_task,Dual task,7,Dual task,Single level,False,Trial,2,0.896551724137931,89.65517241379311,58,nominal 1-min trials,Tran et al. released Multi-Model LSTM
+Multi-Model LSTM,Published comparator,4,trunk_sway_small,Trunk sway small,8,Trunk sway,Small,True,Trial,2,0.5245901639344263,52.459016393442624,61,nominal 1-min trials,Tran et al. released Multi-Model LSTM
+Multi-Model LSTM,Published comparator,4,trunk_sway_large,Trunk sway large,9,Trunk sway,Large,True,Trial,2,0.3389830508474576,33.89830508474576,59,nominal 1-min trials,Tran et al. released Multi-Model LSTM
+InceptionTime,Published comparator,5,fpa_small,FPA small,1,Foot progression angle,Small,False,Trial,2,0.9833333333333332,98.33333333333331,60,nominal 1-min trials,authors' five-member architecture ensemble
+InceptionTime,Published comparator,5,fpa_large,FPA large,2,Foot progression angle,Large,False,Trial,2,0.9838709677419356,98.38709677419357,62,nominal 1-min trials,authors' five-member architecture ensemble
+InceptionTime,Published comparator,5,step_width_small,Step width small,3,Step width,Small,False,Trial,2,1.0,100.0,61,nominal 1-min trials,authors' five-member architecture ensemble
+InceptionTime,Published comparator,5,step_width_large,Step width large,4,Step width,Large,False,Trial,2,0.9833333333333332,98.33333333333331,60,nominal 1-min trials,authors' five-member architecture ensemble
+InceptionTime,Published comparator,5,walk_speed_small,Speed small,5,Walking speed,Small,False,Trial,2,1.0,100.0,60,nominal 1-min trials,authors' five-member architecture ensemble
+InceptionTime,Published comparator,5,walk_speed_large,Speed large,6,Walking speed,Large,False,Trial,2,1.0,100.0,57,nominal 1-min trials,authors' five-member architecture ensemble
+InceptionTime,Published comparator,5,dual_task,Dual task,7,Dual task,Single level,False,Trial,2,1.0,100.0,58,nominal 1-min trials,authors' five-member architecture ensemble
+InceptionTime,Published comparator,5,trunk_sway_small,Trunk sway small,8,Trunk sway,Small,True,Trial,2,0.8688524590163934,86.88524590163934,61,nominal 1-min trials,authors' five-member architecture ensemble
+InceptionTime,Published comparator,5,trunk_sway_large,Trunk sway large,9,Trunk sway,Large,True,Trial,2,0.8135593220338984,81.35593220338984,59,nominal 1-min trials,authors' five-member architecture ensemble
+PRISM-Gait,This study,6,fpa_small,FPA small,1,Foot progression angle,Small,False,Trial,2,0.9833333333333332,98.33333333333331,60,nominal 1-min trials,this study
+PRISM-Gait,This study,6,fpa_large,FPA large,2,Foot progression angle,Large,False,Trial,2,1.0,100.0,62,nominal 1-min trials,this study
+PRISM-Gait,This study,6,step_width_small,Step width small,3,Step width,Small,False,Trial,2,1.0,100.0,61,nominal 1-min trials,this study
+PRISM-Gait,This study,6,step_width_large,Step width large,4,Step width,Large,False,Trial,2,1.0,100.0,60,nominal 1-min trials,this study
+PRISM-Gait,This study,6,walk_speed_small,Speed small,5,Walking speed,Small,False,Trial,2,1.0,100.0,60,nominal 1-min trials,this study
+PRISM-Gait,This study,6,walk_speed_large,Speed large,6,Walking speed,Large,False,Trial,2,1.0,100.0,57,nominal 1-min trials,this study
+PRISM-Gait,This study,6,dual_task,Dual task,7,Dual task,Single level,False,Trial,2,1.0,100.0,58,nominal 1-min trials,this study
+PRISM-Gait,This study,6,trunk_sway_small,Trunk sway small,8,Trunk sway,Small,True,Trial,2,0.9672131147540984,96.72131147540985,61,nominal 1-min trials,this study
+PRISM-Gait,This study,6,trunk_sway_large,Trunk sway large,9,Trunk sway,Large,True,Trial,2,0.9491525423728814,94.91525423728814,59,nominal 1-min trials,this study

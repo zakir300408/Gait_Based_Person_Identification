@@ -1,0 +1,8 @@
+model,cite_key,whugait_accuracy_pct,ou_isir_accuracy_pct,whugait_scope,source_doi
+CNN+MHA,heAdvancingWearableGaitbased2026,95.55,98.58,Dataset #3,10.1007/s00521-025-11832-z
+FCN-BiLSTM,rifaatAccurateGaitRecognition2022,95.29,98.30,Dataset #3,10.1016/j.compeleceng.2022.108428
+MSCNN-DTCWT,sezavarMultiscaleDeepGait2026,95.28,97.01,Dataset #3,10.1016/j.compeleceng.2025.110837
+CNN+CEDS,huangLightweightAttentionCNN2021,95.09,97.16,Dataset #3,10.3390/s21082866
+Proposed Transformer,delgadoSantosExploringTransformers2023,94.25,93.33,Published whuGAIT protocol,10.1016/j.patcog.2023.109798
+CNN + Multi-Model LSTM,tranMultiModelLongShortTerm2021,94.15,89.79,Published whuGAIT protocol,10.1109/ACCESS.2021.3056880
+Multi-Model LSTM,tranMultiModelLongShortTerm2021,93.14,78.92,Published whuGAIT protocol,10.1109/ACCESS.2021.3056880

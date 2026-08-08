@@ -1,0 +1,4 @@
+Dataset,Setting,IDs,Placement,Source rate,Signals,Model input,Registration,Held-out evaluation,Aggregation
+Controlled treadmill,Laboratory treadmill,62,L5-S1/lower back,100 Hz,3-axis acc. + 3-axis gyro.,2 s; 200 samples; 50% overlap,62 baseline SSWS trials,"35,081 windows; 538 perturbation trials",Trial majority vote
+WHU-Gait Dataset #3,Daily-life smartphone,118,Unrestricted: pocket/hand/desk,50 Hz,3-axis acc. + 3-axis gyro.,128 source samples resampled to 200,"Official train; 26,283 windows","Official test; 2,991 windows; 118 IDs",Participant mean-score
+OU-ISIR,Public inertial benchmark,745,Center-back waist IMU,100 Hz,3-axis acc. + 3-axis gyro.,128 source samples resampled to 200,"Provided train; 13,212 windows","Provided test; 1,409 windows; 745 IDs",Participant mean-score

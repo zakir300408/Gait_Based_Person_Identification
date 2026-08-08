@@ -1,0 +1,61 @@
+fold,condition,model,participants,windows,window_accuracy_pct
+1,trunk_sway_large,PRISM-Gait,12,789,89.22686945500634
+1,trunk_sway_large,MultiRocket,12,789,72.3700887198986
+1,trunk_sway_large,MiniRocket,12,789,68.5678073510773
+1,trunk_sway_large,FCN-BiLSTM,12,789,64.38529784537388
+1,trunk_sway_large,InceptionTime,12,789,62.864385297845374
+1,trunk_sway_large,Multi-Model LSTM,12,789,25.85551330798479
+1,trunk_sway_small,PRISM-Gait,13,860,98.25581395348837
+1,trunk_sway_small,MultiRocket,13,860,94.53488372093024
+1,trunk_sway_small,MiniRocket,13,860,92.44186046511628
+1,trunk_sway_small,FCN-BiLSTM,13,860,91.97674418604652
+1,trunk_sway_small,InceptionTime,13,860,88.72093023255815
+1,trunk_sway_small,Multi-Model LSTM,13,860,42.7906976744186
+2,trunk_sway_large,PRISM-Gait,12,782,85.80562659846548
+2,trunk_sway_large,MultiRocket,12,782,76.34271099744245
+2,trunk_sway_large,MiniRocket,12,782,74.55242966751918
+2,trunk_sway_large,FCN-BiLSTM,12,782,81.58567774936061
+2,trunk_sway_large,InceptionTime,12,782,77.2378516624041
+2,trunk_sway_large,Multi-Model LSTM,12,782,26.59846547314578
+2,trunk_sway_small,PRISM-Gait,12,777,91.89189189189189
+2,trunk_sway_small,MultiRocket,12,777,78.76447876447877
+2,trunk_sway_small,MiniRocket,12,777,76.7052767052767
+2,trunk_sway_small,FCN-BiLSTM,12,777,88.93178893178893
+2,trunk_sway_small,InceptionTime,12,777,78.5070785070785
+2,trunk_sway_small,Multi-Model LSTM,12,777,31.91763191763192
+3,trunk_sway_large,PRISM-Gait,12,802,91.89526184538653
+3,trunk_sway_large,MultiRocket,12,802,79.55112219451371
+3,trunk_sway_large,MiniRocket,12,802,78.92768079800499
+3,trunk_sway_large,FCN-BiLSTM,12,802,72.9426433915212
+3,trunk_sway_large,InceptionTime,12,802,66.08478802992519
+3,trunk_sway_large,Multi-Model LSTM,12,802,26.433915211970074
+3,trunk_sway_small,PRISM-Gait,12,800,98.125
+3,trunk_sway_small,MultiRocket,12,800,92.75
+3,trunk_sway_small,MiniRocket,12,800,92.75
+3,trunk_sway_small,FCN-BiLSTM,12,800,94.75
+3,trunk_sway_small,InceptionTime,12,800,90.25
+3,trunk_sway_small,Multi-Model LSTM,12,800,42.125
+4,trunk_sway_large,PRISM-Gait,11,734,88.8283378746594
+4,trunk_sway_large,MultiRocket,11,734,73.29700272479565
+4,trunk_sway_large,MiniRocket,11,734,76.566757493188
+4,trunk_sway_large,FCN-BiLSTM,11,734,82.83378746594005
+4,trunk_sway_large,InceptionTime,11,734,75.88555858310627
+4,trunk_sway_large,Multi-Model LSTM,11,734,29.019073569482288
+4,trunk_sway_small,PRISM-Gait,12,801,83.77028714107365
+4,trunk_sway_small,MultiRocket,12,801,73.65792759051186
+4,trunk_sway_small,MiniRocket,12,801,74.53183520599251
+4,trunk_sway_small,FCN-BiLSTM,12,801,76.77902621722846
+4,trunk_sway_small,InceptionTime,12,801,73.78277153558052
+4,trunk_sway_small,Multi-Model LSTM,12,801,32.08489388264669
+5,trunk_sway_large,PRISM-Gait,12,800,82.0
+5,trunk_sway_large,MultiRocket,12,800,63.875
+5,trunk_sway_large,MiniRocket,12,800,60.75
+5,trunk_sway_large,FCN-BiLSTM,12,800,56.875
+5,trunk_sway_large,InceptionTime,12,800,51.125
+5,trunk_sway_large,Multi-Model LSTM,12,800,5.749999999999997
+5,trunk_sway_small,PRISM-Gait,12,798,92.73182957393483
+5,trunk_sway_small,MultiRocket,12,798,83.70927318295739
+5,trunk_sway_small,MiniRocket,12,798,78.0701754385965
+5,trunk_sway_small,FCN-BiLSTM,12,798,80.20050125313283
+5,trunk_sway_small,InceptionTime,12,798,74.68671679197995
+5,trunk_sway_small,Multi-Model LSTM,12,798,22.93233082706767
