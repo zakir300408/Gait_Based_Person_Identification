@@ -10,6 +10,5 @@ __pycache__/
 *.npy
 *.npz
 final figures/
-release/dist/
-release/compare/
+baselines_out/
 public_datasets/

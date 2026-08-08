@@ -11,7 +11,7 @@ dependencies:
   - pytest
   - scikit-learn=1.5.2
   - scipy=1.15.3
+  - statsmodels=0.14.5
   - pip:
-      - pymupdf==1.26.3
       - sktime==0.39.0
       - torch==2.7.1

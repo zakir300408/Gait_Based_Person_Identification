@@ -1,7 +1,0 @@
-model,protocol,evaluation_subset,fold,auc,eer,n_genuine,n_impostor
-PRISM-Gait,enrolled_participant_verification,trunk_sway_trials,0,0.9967588797814207,0.01536885245901642,120,7320
-PRISM-Gait,subject_held_out_open_set_verification,trunk_sway_trials,1,0.9974393125671321,0.03293233082706766,95,1225
-PRISM-Gait,subject_held_out_open_set_verification,trunk_sway_trials,2,0.9933782023447677,0.020057450148635574,94,1274
-PRISM-Gait,subject_held_out_open_set_verification,trunk_sway_trials,3,0.9945225694444445,0.025625000000000002,96,1200
-PRISM-Gait,subject_held_out_open_set_verification,trunk_sway_trials,4,0.9945646945646947,0.03229437229437228,99,1050
-PRISM-Gait,subject_held_out_open_set_verification,trunk_sway_trials,5,0.9954079861111111,0.03229166666666666,96,1200

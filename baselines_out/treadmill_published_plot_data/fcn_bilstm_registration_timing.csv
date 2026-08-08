@@ -1,2 +1,0 @@
-model,registration_seconds,epochs_completed,definition,device,source
-FCN-BiLSTM,704.9461121000058,133,exact treadmill enrollment model fit after loading and 200-to-128 resampling; data-collection time excluded,NVIDIA GeForce RTX 5090 GPU,current exact reconstruction
