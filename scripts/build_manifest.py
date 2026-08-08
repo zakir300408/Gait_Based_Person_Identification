@@ -20,7 +20,6 @@ DIRECTORIES = (
     "ablation",
     "baselines_out",
     "config",
-    "docs",
     "figs",
     "paper",
     "scripts",

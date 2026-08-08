@@ -1,71 +1,48 @@
-# PRISM-Gait reproducibility repository
+# PRISM-Gait
 
-This repository accompanies **PRISM-Gait: Robust Inertial Biometrics for
-Wearable Authentication Under Controlled Trunk-Sway Perturbations**. It
-contains the implementation, matched comparison models, compact analysis
-outputs, figure source data, and table source data used in the manuscript.
+Code, results, figures, and tables for **PRISM-Gait: Robust Inertial
+Biometrics for Wearable Authentication Under Controlled Trunk-Sway
+Perturbations**.
 
-The release is deliberately scoped to the current paper. It excludes unrelated
-FoG, EEG, Kyoto, exploratory model-search, cached checkpoints, logs, previews,
-and superseded figures.
+## Contents
 
-## Included
+- `ablation/`: PRISM-Gait, ablation, verification, public-dataset, and comparison-model analyses
+- `figs/`: scripts used to create the manuscript figures
+- `paper/`: final figures and table source files
+- `baselines_out/`: numerical results used by the figures and tables
 
-- `ablation/`: PRISM-Gait, duration and component analyses, nested selection,
-  verification, public-dataset evaluation, and the five matched comparators.
-- `figs/`: reproducible scripts for the paper result figures.
-- `baselines_out/`: only the compact derived evidence required by those figures.
-- `paper/figures/`: the exact figures placed in the manuscript.
-- `paper/tables/`: paper-ready LaTeX tables and their CSV source values.
-- `third_party/`: the minimal pinned author-code files required by InceptionTime
-  and Multi-Model LSTM, with upstream provenance.
-- `gait_id_pelvis_62.h5`: the AlterGait analysis file already distributed in
-  this repository.
-
-## Quick verification
+## Run
 
 ```powershell
 conda env create -f environment.yml
 conda activate prism-gait
 python scripts/verify_release.py
 python scripts/rebuild_paper_figures.py
-pytest -q
 ```
 
-`verify_release.py` checks the dataset checksum and schema, required evidence,
-table files, figure labels, and accidental machine-specific paths.
-
-## Reproducing the analyses
-
-The complete command order and the mapping from manuscript results to scripts
-are in [docs/REPRODUCIBILITY.md](docs/REPRODUCIBILITY.md). Data acquisition,
-licensing, expected directory layouts, and the large-data policy are in
-[docs/DATA.md](docs/DATA.md). The exact feature dimensions and model-component
-definitions are in [docs/PRISM_GAIT_MODEL.md](docs/PRISM_GAIT_MODEL.md).
-
-The classical PRISM-Gait and random-kernel analyses use `environment.yml`.
-FCN-BiLSTM and Multi-Model LSTM use `environment-deep.yml`. InceptionTime uses
-`environment-inceptiontime.yml` because its reported run used TensorFlow 2.10.
-
-## Large data and Figshare
-
-Raw WHU-Gait and OU-ISIR files are not redistributed here. Obtain them from
-their official providers and place them as described in `docs/DATA.md`.
-
-The command below creates a Figshare-ready ZIP containing only paper-derived
-scores, fold assignments, source tables, and checksums. It excludes raw sensor
-data and third-party datasets.
+Main PRISM-Gait analyses:
 
 ```powershell
-python scripts/package_figshare.py
+python -m ablation.prism_architecture_selection
+python -m ablation.prism_duration_selection
+python -m ablation.prism_nested_design_evaluation
+python -m ablation.prism_subject_window_accuracy
 ```
 
-Publication of that archive requires an author-controlled Figshare account and
-confirmation that participant-level derived scores are covered by the study's
-data-sharing approval. No DOI is claimed until Figshare completes the deposit.
+The comparison-model entry points are in `ablation/`. Deep-learning models use
+`environment-deep.yml`; InceptionTime uses `environment-inceptiontime.yml`.
 
-## Citation and license
+## Model sources
 
-A publication DOI will be added after acceptance. Code and data-use conditions
-are described in [LICENSE.md](LICENSE.md). Third-party files retain their
-upstream licenses.
+- [MiniROCKET](https://github.com/angus924/minirocket)
+- [MultiROCKET](https://github.com/ChangWeiTan/MultiRocket)
+- [FCN-BiLSTM](https://github.com/utshabkg/gait_recognition)
+- [InceptionTime](https://github.com/hfawaz/InceptionTime/tree/952d115e83fb3a66d75c5858c702f8dd5eeb18b7)
+- [Multi-Model LSTM](https://github.com/halam189/Gait_Recognition_LSTM)
+
+## Public datasets
+
+- [WHU-Gait](https://github.com/qinnzou/Gait-Recognition-Using-Smartphones)
+- [OU-ISIR inertial gait database](https://www.am.sanken.osaka-u.ac.jp/BiometricDB/InertialGait.html)
+
+Please follow the original code and dataset licenses.

@@ -7,12 +7,5 @@
     "inertial measurement unit",
     "trunk sway",
     "verification"
-  ],
-  "exclusions": [
-    "raw participant sensor recordings",
-    "WHU-Gait source files",
-    "OU-ISIR source files",
-    "trained model checkpoints"
-  ],
-  "publication_note": "Select a Figshare license and publish only after confirming ethics and data-sharing approval."
+  ]
 }
