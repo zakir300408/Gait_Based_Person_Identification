@@ -1,0 +1,1 @@
+"""Adapted public comparator architectures."""

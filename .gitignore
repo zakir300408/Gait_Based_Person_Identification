@@ -12,3 +12,6 @@ __pycache__/
 final figures/
 baselines_out/
 public_datasets/
+data/whu_gait/
+data/ou_isir/
+external/

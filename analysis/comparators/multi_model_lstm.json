@@ -1,0 +1,22 @@
+{
+  "seed": 42,
+  "input_group_size": 5,
+  "published_paper_input_group_size": 4,
+  "hidden_size": 40,
+  "layers": 2,
+  "learning_rate": 0.15,
+  "momentum": 0.9,
+  "train_batch_size": 64,
+  "test_batch_size": 32,
+  "max_epochs": 200,
+  "early_stopping_patience": 15,
+  "validation_fraction_treadmill": 0.1,
+  "published_whugait_accuracy_percent": 93.14,
+  "admission_tolerance_percentage_points": 0.5,
+  "official_segment_root": "external/Gait_Recognition_LSTM/Dataset/segments",
+  "treadmill_h5": "data/altergait/gait_id_pelvis_62.h5",
+  "output_root": "baselines_out/published_model_reproductions/multi_model_lstm",
+  "treadmill_output": "baselines_out/treadmill_published_subject_sd/multi_model_lstm_official",
+  "run_whugait": true,
+  "run_treadmill_after_admission": true
+}
