@@ -30,7 +30,7 @@ CONDITIONS=[('trunk_sway_small','Small sway',SMALL_SWAY),('trunk_sway_large','La
 MODELS=['gaitprint', 'multirocket_hydra', 'hydra', 'multirocket', 'minirocket', 'inceptiontime', 'multi_model_lstm']
 
 
-NAMES={'gaitprint': 'GaitPrint-IMU', 'multirocket_hydra': 'MultiROCKET–HYDRA [21, 34]', 'hydra': 'HYDRA [21]', 'multirocket': 'MultiROCKET [20]', 'minirocket': 'MiniROCKET [19]', 'inceptiontime': 'InceptionTime [18]', 'multi_model_lstm': 'Multi-Model LSTM [15]'}
+NAMES={'gaitprint': 'GaitPrint-IMU', 'multirocket_hydra': 'MultiROCKET–HYDRA [26, 39]', 'hydra': 'HYDRA [26]', 'multirocket': 'MultiROCKET [25]', 'minirocket': 'MiniROCKET [24]', 'inceptiontime': 'InceptionTime [23]', 'multi_model_lstm': 'Multi-Model LSTM [20]'}
 
 
 def apply_style():
@@ -86,7 +86,7 @@ def duration_panel(participants):
     return fig,a
 
 
-LABELS=['GaitPrint-IMU', 'MultiROCKET–HYDRA [21, 34]', 'HYDRA [21]', 'MultiROCKET [20]', 'MiniROCKET [19]', 'InceptionTime [18]', 'Multi-Model LSTM [15]']
+LABELS=['GaitPrint-IMU', 'MultiROCKET–HYDRA [26, 39]', 'HYDRA [26]', 'MultiROCKET [25]', 'MiniROCKET [24]', 'InceptionTime [23]', 'Multi-Model LSTM [20]']
 
 
 def identification_top(summary,output):
