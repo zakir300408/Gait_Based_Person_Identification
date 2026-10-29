@@ -41,8 +41,6 @@ Runs all models and analyses with the study settings in `configs/`. Results are 
 - `results/`: saved predictions and reference results.
 - `paper/`: result figures.
 
-The figures in `paper/` match the manuscript sent to co-authors for review for *npj Digital Medicine*. Comparator reference numbers in the plotting code follow that manuscript bibliography.
-
 ## Citation and license
 
 See [CITATION.cff](CITATION.cff), the [license](LICENSE.md), and [third-party sources](THIRD_PARTY.md).
