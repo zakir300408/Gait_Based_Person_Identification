@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+outputs/
+external/
+*.log
+*.pt
+*.pth
+*.joblib
+*.keras
+*.npy
+*.npz

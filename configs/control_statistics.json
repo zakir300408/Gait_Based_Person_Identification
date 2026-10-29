@@ -1,0 +1,25 @@
+{
+  "scope": "descriptive post-hoc controls; no architecture selection or manuscript update",
+  "holm_family": 6,
+  "primary_unit": "participant accuracy averaged across seeds",
+  "conditions": [
+    "trunk_sway_small",
+    "trunk_sway_large"
+  ],
+  "comparisons": [
+    {
+      "left": "gaitprint",
+      "right": "temporal_budget"
+    },
+    {
+      "left": "temporal_invariant",
+      "right": "temporal"
+    },
+    {
+      "left": "temporal_budget",
+      "right": "temporal"
+    }
+  ],
+  "bootstrap_seed": 92126,
+  "bootstrap_iterations": 10000
+}

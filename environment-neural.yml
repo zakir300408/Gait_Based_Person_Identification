@@ -1,0 +1,17 @@
+name: gaitprint-neural
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11.15
+  - numpy=2.4.4
+  - scipy=1.17.1
+  - scikit-learn=1.9.0
+  - pandas=3.0.5
+  - h5py=3.16.0
+  - joblib=1.5.3
+  - threadpoolctl=3.6.0
+  - pip
+  - pip:
+      - --extra-index-url https://download.pytorch.org/whl/cu128
+      - torch==2.11.0+cu128
+      - keras==3.13.2

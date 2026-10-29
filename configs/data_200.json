@@ -1,0 +1,23 @@
+{
+  "protocol": "baseline_timeline_selection_20261026",
+  "data_path": "data/altergait/gait_id_pelvis_62.h5",
+  "output_dir": "outputs/data/window_200",
+  "sampling_hz": 100,
+  "window_samples": 200,
+  "hop_samples": 100,
+  "movement_sd_min": 0.4,
+  "baseline_train_fraction": 0.8,
+  "validation_gap_samples": 200,
+  "folds": 5,
+  "split_seed": 42,
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "selection_metric": "baseline_validation_participant_mean_accuracy",
+  "selection_tie_rule": "first candidate in declared order",
+  "final_enrollment": "all accepted baseline windows after selecting settings on isolated baseline timelines",
+  "test_access": "altered-condition outcomes may not select any configuration, checkpoint, seed, or preprocessing",
+  "historical_scope": "Architecture was developed within this cohort; baseline-only parameter selection does not establish external generalization."
+}

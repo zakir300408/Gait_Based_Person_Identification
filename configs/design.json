@@ -1,0 +1,57 @@
+{
+  "data_configs": {
+    "100": "configs/data_100.json",
+    "200": "configs/data_200.json",
+    "300": "configs/data_300.json",
+    "400": "configs/data_400.json",
+    "500": "configs/data_500.json"
+  },
+  "output_dir": "outputs/fits/design",
+  "hydra_source": "external/hydra",
+  "threads": 4,
+  "prediction_batch": 256,
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "alphas": [
+    0.01,
+    0.1,
+    1.0,
+    10.0,
+    100.0
+  ],
+  "jobs": [
+    [
+      200,
+      "temporal"
+    ],
+    [
+      200,
+      "temporal_multiscale"
+    ],
+    [
+      200,
+      "temporal_spectral"
+    ],
+    [
+      100,
+      "complete"
+    ],
+    [
+      300,
+      "complete"
+    ],
+    [
+      400,
+      "complete"
+    ],
+    [
+      500,
+      "complete"
+    ]
+  ],
+  "complete_two_second_reference": "outputs/fits/classical/full/gaitprint",
+  "scope": "Descriptive sensitivity only. Alpha selected within isolated baseline chronology. No altered-gait design selection."
+}

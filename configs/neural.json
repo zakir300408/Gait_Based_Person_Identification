@@ -1,0 +1,46 @@
+{
+  "data_dir": "outputs/data/window_200",
+  "output_dir": "outputs/fits/neural",
+  "models": [
+    "inceptiontime",
+    "multi_model_lstm"
+  ],
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "folds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "threads": 4,
+  "max_epochs": 200,
+  "patience": 20,
+  "selection": "baseline chronological validation participant-mean accuracy, earliest epoch breaks ties",
+  "final_refit": "reset seed and fit all accepted baseline windows for selected epoch count",
+  "prediction_batch": 128,
+  "settings": {
+    "multi_model_lstm": {
+      "backend": "torch",
+      "input_length": 200,
+      "batch_size": 64,
+      "optimizer": "SGD",
+      "lr": 0.15,
+      "momentum": 0.9
+    },
+    "inceptiontime": {
+      "backend": "keras",
+      "input_length": 200,
+      "batch_size": 64,
+      "optimizer": "Adam",
+      "lr": 0.001,
+      "ensemble_members": 5,
+      "member_seed_rule": "100 * seed + member_index"
+    }
+  }
+}

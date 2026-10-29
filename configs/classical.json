@@ -1,0 +1,50 @@
+{
+  "data_dir": "outputs/data/window_200",
+  "output_dir": "outputs/fits/classical",
+  "hydra_source": "external/hydra",
+  "models": [
+    "hydra",
+    "minirocket",
+    "multirocket",
+    "multirocket_hydra",
+    "gaitprint"
+  ],
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "folds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "threads": 8,
+  "prediction_batch": 256,
+  "alphas": [
+    0.001,
+    0.004641588833612777,
+    0.021544346900318832,
+    0.1,
+    0.46415888336127775,
+    2.154434690031882,
+    10.0,
+    46.41588833612773,
+    215.44346900318823,
+    1000.0
+  ],
+  "gaitprint_alphas": [
+    0.01,
+    0.1,
+    1.0,
+    10.0,
+    100.0
+  ],
+  "alpha_selection": "maximum baseline chronological validation participant-mean accuracy, first candidate breaks ties",
+  "timing_warmup": 5,
+  "timing_repeats": 50,
+  "timing_window_source": "deterministic accepted enrollment windows, selected before accessing test outcomes"
+}
